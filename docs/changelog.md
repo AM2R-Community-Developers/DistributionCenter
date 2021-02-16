@@ -1,4 +1,4 @@
-## 1.5.2
+## 1.5.2  
 - Enabled negative X offsets for title overlays. New format is at the top of the readme file, as usual.
 - Subscreen ammo sprites updated.
 - Re-implemented the nighttime Landing Site Septoggs.
