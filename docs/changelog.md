@@ -308,6 +308,7 @@
 	- IF YOUR GAMEPAD DOESN'T WORK GO TO CONTROL OPTIONS AND ENABLE *COMPATIBILITY MODE*.
 	- Buttons will need to be rebound.
 	- Buttons hints can be changed to match various controllers, under Display Settings, when not in compatibility mode.
+
 ## 1.4.1
 - Android support.
 	- Minimum hardware requirements:
