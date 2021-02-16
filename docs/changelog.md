@@ -1,5 +1,4 @@
 # Changelog
-
 ## 1.5.2
 - Enabled negative X offsets for title overlays. New format is at the top of the readme file, as usual.
 - Subscreen ammo sprites updated.
@@ -17,7 +16,6 @@
 - Fixed a scrolling bug in the Display Options menu on Android.
 - Fixed a camera snapping issue in widescreen.
 - Other minor fixes.
-
 ## 1.5.1
 - Added widescreen support.
 	- MASSIVE thanks to Wanderer for getting the backbone of widescreen figured out before he left.
@@ -132,7 +130,6 @@
 - Fixed an OOB in the Power Plant escape sequence.
 - BladeBots now despawn when outside of a room.
 - Other minor fixes.
-
 ## 1.5
 - Linux support added.
 	- Please read dependencies.txt for more information.
@@ -260,7 +257,6 @@
 - A2 turbine invulnerability to Power Bombs has been fixed.
 - Added helper Septoggs in BG3 to prevent a softlock in Random Games.
 - Other minor fixes.
-
 ## 1.4.3
 - Removed Septogg directly to the left of the ship to avoid confusing players.
 - Changed controller screen text to encourage players to purchase Metroid: Samus Returns.
@@ -295,7 +291,6 @@
 - Added option in the Extras Menu to display the in-game timer under the HUD.
 - Modified a set of crumble blocks in A5 to give players a faster backtracking route to collect a Screw Attack walled item.
 - Cleaned up several information files included with the patch.
-
 ## 1.4.2
 - Music when entering item rooms will now quickly cross-fade.
 - Resolved various issues related to shaders.
@@ -313,7 +308,6 @@
 	- IF YOUR GAMEPAD DOESN'T WORK GO TO CONTROL OPTIONS AND ENABLE *COMPATIBILITY MODE*.
 	- Buttons will need to be rebound.
 	- Buttons hints can be changed to match various controllers, under Display Settings, when not in compatibility mode.
-
 ## 1.4.1
 - Android support.
 	- Minimum hardware requirements:
@@ -349,7 +343,6 @@
 - A7 cave background changed.
 - Added French, Czech, and German localizations.
 - Many other minor fixes.
-
 ## 1.4
 - Added Fusion Difficulty. See explanations.txt file.
 - Fixed glitched Spin Jump under water.
@@ -399,7 +392,6 @@
 - Save files have been renamed to save1, save2, and save3. 1.2+ - 1.3.3 save files have not been deleted if they exist.
 - Added/edited 8Bit filters.
 - Ice Beam damage has been modified for random modes.
-
 ## 1.3.3
 - Reworked backend Randomizer coding.
 	Pre-V1.3.3 random games may not work correctly anymore if you have not acquired all power ups. Power ups will just default to original locations.
@@ -427,7 +419,6 @@
 - Fixed keyboard names in Keyboard Settings for most keys.
 - Changed underwater spin sound when you do not have the Gravity Suit.
 - Number of Super Missiles and Power Bombs will only show in Menu system once you have acquired said items.
-
 ## 1.3.2
 - Changed the graphics of the reactor elevator in the map.
 - Fixed issue with Queen music double playing.
@@ -453,11 +444,9 @@
 - Added quake after killing last Metroid before Queen.
 - Fixed glitch with the In Game Hints.
 - Changed the sprite of the Water Moheeks in the Distribution Facility. This can be changed back to the original in modifiers.ini file.
-
 ## 1.3.1
 - Fixed blue caves at start of game in version 1.3.
 - color Filters are turned off by default. F9 key still toggles filters but they must be turned on in modifiers.ini file.
-
 ## 1.3
 - Changed Thoth save station position on screen.
 - Changed Hard Coded words and added them to the language file.
@@ -476,7 +465,6 @@
 - changed Skorp Disc hitbot back to original settings.
 - Color Filter Change - You can now toggle between Normal and color filters with the F9 key. Filters can be turned on in game by default.
 - Switch in modifier.ini file to change Chozo Statue in Golden Temple.
-
 ## 1.2.10
 - Fixed graphical issue with new game selection if you haven't finish the game yet.
 - Slightly changed the Black and White filter coloring.
@@ -485,7 +473,6 @@
 - Change behavior of Random Game+.
 	- You will not longer get random Power Bomb drops in Area 1 if Power Bombs or Screw Attack is your starting path.
 - Changed falling behavior of the Tsumuri enemy.
-
 ## 1.2.9
 - Fixed glitch in spider ball room where the game believed there was another item.
 - Non-usable pipe in Area 5 is now broken.
@@ -507,7 +494,6 @@
 - Added a four color filter. Green, Black & White, Blue, and Custom filter available. See modifiers.ini
 	- Thanks PixHammer for the Game Boy Shader!
 - If you do not have bombs or power bombs when you enter the reactor the bomb blocks in the reactor will be destroyed.
-
 ## 1.2.8
 - Fixed glitch where you can collect an incorrect amount of items.
 - Fixed soft lock with Hell Run. You can now enter the ship after getting the baby.
@@ -519,14 +505,12 @@
 - Added switch in modifiers.ini for map to show missing item if in same room as a pipe or if multiple item are in one location and you have not acquired them all.
 - Added switch in modifiers.ini to switch power ups acquired and not acquired icons.
 - Added switch in modifiers.ini for alternative icons for save stations and Metroids.
-
 ## 1.2.7
 - Fixed certain items not appearing
 - Potentially fixed duplicate power up glitch. Couldn't replicate issue.
 - Fixed no sound on Power Bomb pickups
 - Fixed Genesis spawn issue
 - Potentially fixed issue with music sometimes not starting in Area 0 at start of game.
-
 ## 1.2.6
 - Added HellRun option in modifiers.ini. No save points are active. Power bomb ammo does drop. 
 	(For advanced players only. Thanks TheKhaosDemon!)
@@ -538,16 +522,13 @@
 	- Added either bombs, screw attack or power bombs to be gotten in area 1.
 		- This can be altered in modifiers.ini.
 	- If you have power bombs but not regular bombs ammo will drop for power bombs.
-
 ## 1.2.5
 - Fixed wall glitch in first save room of Area 3
 - Fixed it so controller vibration stops if you exit game or pause when controller is actively vibrating
 - Added a switch in modifiers.ini to not swap back to the Varia Suit if you have Gravity Suit.
 - Fixed Credits. Proper credit has been given now.
-
 ## 1.2.4
 - Added a manual randomizer seed option in modifiers.ini file.
-
 ## 1.2.3
 - Fixed a room in Area 5 just before Zeta Metroid where you can get stuck in Random Game+.
 - Fixed it so you can still escape the reaction without speed boost in New Game+ or Random Game+.
@@ -556,14 +537,11 @@
 - Added an option to change the percent of health E-Tanks give you. 0 to 100% possible.
 - Fixed a graphical glitch with the warp pipe between Area 2 and area 4.
 - Changed the default buttons back to Xbox. This can be changed to Playstation in the modifiers.ini file.
-
 ## 1.2.2
 - Fixed warp glitch after acquiring ice beam.
-
 ## 1.2.1
 - Fixed error on Torizo in hard mode.
 - Fixed being able to get stuck leaving the Ice Beam room if you don't have Ice Beam.
-
 ## 1.2
 - There may be some bugs due to the code reconstruction. I've fixed what I've found. Just a warning.
 - Fixed gravity suit leg glitch when jumping vertically
@@ -597,7 +575,6 @@
 	It is possible to get stuck in this game mode. Having either spider ball or space jump in some places
 	can be vital to being able to get out of situations if you don't have a good grasp on bomb jumping.
 	This is mainly an issue in area 5.
-
 ## 1.1
 - Fixed gravity suit not being rendered in certain systems
 - Fixed room transition in area 3 entrance
