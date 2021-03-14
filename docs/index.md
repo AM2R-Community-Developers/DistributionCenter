@@ -1,1 +1,1 @@
-Check check
+Woah, this page is useless!
