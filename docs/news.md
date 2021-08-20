@@ -3,6 +3,10 @@ layout: post
 title: "News"
 ---
 
+## 8/20/2021: AM2RLauncher 2.1.2 release!
+
+Auto-updater was STILL broken. 2.1.1 will crash on a first update attempt but when launched again will fix itself on Windows - unfortunately, Linux is a little more broken and requires a manual reinstall. Changelog can be found on GitHub, as usual.
+
 ## 8/16/2021: AM2RLauncher 2.1.1 release!
 
 Auto-updater was still busted, so there's another recovery tool. It should be fully resolved now, but we all know what happened when we said that last time.
