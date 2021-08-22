@@ -3,6 +3,9 @@ layout: post
 title: "Changelog"
 ---
 
+## 1.5.4
+- Fixed shader crash on Fusion Difficulty.
+
 ## 1.5.3
 - Switched back to Virtual Machine builds to allow better modding support through the UndertaleModTool.
 - Tweaked the Windows sleep margin setting - this is the primary cause of the random slowdowns people have been running into.
