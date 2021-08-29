@@ -3,6 +3,11 @@ layout: post
 title: "Changelog"
 ---
 
+## 1.5.5
+- Fixed credits fadein.
+- Fixed missing credits entry.
+- Fixed missing font characters.
+
 ## 1.5.4
 - Fixed shader crash on Fusion Difficulty.
 
