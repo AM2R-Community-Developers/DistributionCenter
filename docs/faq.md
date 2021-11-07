@@ -17,7 +17,7 @@ Windows, Android, and Linux (x86).
 #### What are the minimum specifications to play AM2R on a PC?
 An AMD E-300 APU with Radeon HD Graphics and 3GB of RAM should give you fullspeed for the whole game assuming you play on 4:3 and have custom palettes disabled, with some slight stuttering for X Parasite morphing.  
 If you have perfomance problems on Windows, be sure to check out the question "[AM2R runs slow on Windows!](https://am2r-community-developers.github.io/DistributionCenter/faq.html#am2r-runs-slow-on-windows-way-slower-than-previous-versions)".  
-Chromebooks will need higher requirements if you're using Linux (Beta)/Chrostini.
+Chromebooks will need higher requirements if you're using Linux (Beta)/Crostini.
 
 #### What are the minimum specifications for Android?  
 - Quad-core 1.2Ghz CPU
