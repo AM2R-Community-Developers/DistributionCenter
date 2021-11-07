@@ -373,7 +373,7 @@ The AM2R Community Developers do not take responsibility for any of the third-pa
 Please check out the instructions here:  
 <https://github.com/AM2R-Community-Developers/AM2R-Community-Updates>  
 Alternatively, you can also use UndertaleModTool:  
->https://github.com/krzys-h/UndertaleModTool>
+<https://github.com/krzys-h/UndertaleModTool>
 
 #### How do I use custom title images?  
 Place your custom image within the `/lang/titles/` folder. It must use the following name format: `language_x000_y000.png`.  
