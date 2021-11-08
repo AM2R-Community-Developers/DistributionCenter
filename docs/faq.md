@@ -245,7 +245,7 @@ A red save file indicates Insanity Mode. It can be toggled in the Gameplay menu,
 #### What is the maximum amount of pickups I can collect?  
 The maximum collection is 10 E-Tanks, 44 Missile Expansions, 10 Super Missile Expansions, and 10 Power Bomb Expansions. This leads to a total of 1099 health, 250 Missiles, 20 Super Missiles and 20 Power Bombs on Normal, and on Hard and higher to 1099 health, 118 Missiles, 10 Super Missiles and 10 Power Bombs.
 
-#### How do I translate the last log?*  
+#### How do I translate the last log?  
 It will be automatically translated before the game ends after you reach the surface.
 
 #### How many ending images are there, and how do I unlock them?  
