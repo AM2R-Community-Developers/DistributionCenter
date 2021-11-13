@@ -3,6 +3,8 @@ layout: post
 title: "Frequently Asked Questions"
 ---
 
+## Table of Contents
+
 - [Version/Platform Questions](#versionplatform-questions)
 - [Installation Instructions](#installation-instructions)
 - [Controller Questions](#controller-questions)
