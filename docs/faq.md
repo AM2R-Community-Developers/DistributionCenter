@@ -21,7 +21,7 @@ title: "Frequently Asked Questions"
   - [How is AM2R still being updated? Didn't the developers get a DMCA?](#how-is-am2r-still-being-updated-didnt-the-developers-get-a-dmca)
 </details>
 <details>
-<summary>[Installation Instructions](#installation-instructions)</summary>
+  <summary><a href="#installation-instructions">Installation Instructions</a></summary>
   
   - [How do I install the latest version on Windows?](#how-do-i-install-the-latest-version-on-windows)
   - [How do I install the latest version on Linux?](#how-do-i-install-the-latest-version-on-linux)
@@ -38,7 +38,7 @@ title: "Frequently Asked Questions"
   - [I am using Manjaro, and AM2R doesn't run. How do I fix this?](#i-am-using-manjaro-and-am2r-doesnt-run-how-do-i-fix-this)
 </details>
 <details>
-<summary>[Controller Questions](#controller-questions)</summary>
+  <summary><a href="#controller-questions">Controller Questions</a></summary>
   
   - [Which controllers does AM2R support?](#which-controllers-does-am2r-support)
   - [I am on Windows and have trouble getting my Switch Pro Controller to work, what do I do?](#i-am-on-windows-and-have-trouble-getting-my-switch-pro-controller-to-work-what-do-i-do)
@@ -47,7 +47,7 @@ title: "Frequently Asked Questions"
   - [How do I get a controller connected to my Android device?](#how-do-i-get-a-controller-connected-to-my-android-device)
 </details>
 <details>
-<summary>[Display Questions](#display-questions)</summary>
+  <summary><a href="#display-questions">Display Questions</a></summary>
   
   - [What's AM2R's native resolution?](#whats-am2rs-native-resolution)
   - [How do you change the game's resolution?](#how-do-you-change-the-games-resolution)
@@ -57,7 +57,7 @@ title: "Frequently Asked Questions"
   - [How do I use filters like CRT, scanlines, or XBRZ?](#how-do-i-use-filters-like-crt-scanlines-or-xbrz)
 </details>
 <details>
-<summary>[General Game Questions](#general-game-questions)</summary>
+  <summary><a href="#general-game-questions">General Game Questions</a></summary>
   
   - [How many difficulties are there, and what are the differences between them?](#how-many-difficulties-are-there-and-what-are-the-differences-between-them)
   - [I don't see the Fusion difficulty. How do I unlock it?](#i-dont-see-the-fusion-difficulty-how-do-i-unlock-it)
@@ -72,7 +72,7 @@ title: "Frequently Asked Questions"
   - [How many ending images are there, and how do I unlock them?](#how-many-ending-images-are-there-and-how-do-i-unlock-them)
 </details>
 <details>
-<summary>[Save Questions](#save-questions)</summary>
+  <summary><a href="#save-questions">Save Questions</a></summary>
   
   - [I still have an old version of AM2R installed, will updating it delete my saves?](#i-still-have-an-old-version-of-am2r-installed-will-updating-it-delete-my-saves)
   - [Where can I find my saves on Windows?](#where-can-i-find-my-saves-on-windows)
@@ -82,7 +82,7 @@ title: "Frequently Asked Questions"
   - [Can I use save files from earlier versions?](#can-i-use-save-files-from-earlier-versions)
 </details>
 <details>
-<summary>[Windows Specific Questions](#windows-specific-questions)</summary>
+  <summary><a href="#windows-specific-questions">Windows Specific Questions</a></summary>
   
   - [AM2R doesn't show on the Taskbar!](#am2r-doesnt-show-on-the-taskbar)
   - [I have trouble streaming AM2R in Discord!](#i-have-trouble-streaming-am2r-in-discord)
@@ -91,7 +91,7 @@ title: "Frequently Asked Questions"
   - [How can I make AM2R on Windows portable?](#how-can-i-make-am2r-on-windows-portable)
 </details>
 <details>
-<summary>[Linux Specific Questions](#linux-specific-questions)</summary>
+  <summary><a href="#linux-specific-questions">Linux Specific Questions</a></summary>
   
   - [The Launcher crashes with the message "The required library libhostfxr.so could not be found" on start!](#the-launcher-crashes-with-the-message-the-required-library-libhostfxrso-could-not-be-found-on-start)
   - [I have an Nvidia GPU with proprietary drivers and the game doesn't launch!](#i-have-an-nvidia-gpu-with-proprietary-drivers-and-the-game-doesnt-launch)
@@ -101,13 +101,13 @@ title: "Frequently Asked Questions"
   - [I am on Gentoo and the AM2RLauncher doesn't produce an executable for me!](#i-am-on-gentoo-and-the-am2rlauncher-doesnt-produce-an-executable-for-me)
 </details>
 <details>
-<summary>[Android Specific Questions](#android-specific-questions)</summary>
+  <summary><a href="#android-specific-questions">Android Specific Questions</a></summary>
   
   - [Why are some spots slow on my Android device?](#why-are-some-spots-slow-on-my-android-device)
   - [On my PC I can see custom Fusion palettes/8-bit shaders, but not on my Android device. Why can't I see them?](#on-my-pc-i-can-see-custom-fusion-palettes8-bit-shaders-but-not-on-my-android-device-why-cant-i-see-them)
 </details>
 <details>
-<summary>[Customization Questions](#customization-questions)</summary>
+  <summary><a href="#customization-questions">Customization Questions</a></summary>
   
   - [What mods are available for AM2R?](#what-mods-are-available-for-am2r)
   - [How can I create my own mods?](#how-can-i-create-my-own-mods)
@@ -123,7 +123,7 @@ title: "Frequently Asked Questions"
   - [How can I change small game variables?](#how-can-i-change-small-game-variables)
 </details>
 <details>
-<summary>[Multitroid Questions](#multitroid-questions)</summary>
+  <summary><a href="#multitroid-questions">Multitroid Questions</a></summary>
   
   - [Is Multitroid an official part of the Community Updates?](#is-multitroid-an-official-part-of-the-community-updates)
   - [How do I host on Multitroid?](#how-do-i-host-on-multitroid)
