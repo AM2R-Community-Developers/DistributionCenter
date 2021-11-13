@@ -4,19 +4,6 @@ title: "Frequently Asked Questions"
 ---
 
 - [Version/Platform Questions](#versionplatform-questions)
-  - [What is the latest available version?](#what-is-the-latest-available-version)
-  - [Do different platforms have different versions or content?](#do-different-platforms-have-different-versions-or-content)
-  - [What are the currently supported platforms?](#what-are-the-currently-supported-platforms)
-  - [What are the minimum specifications to play AM2R on a PC?](#what-are-the-minimum-specifications-to-play-am2r-on-a-pc)
-  - [What are the minimum specifications for Android?](#what-are-the-minimum-specifications-for-android)
-  - [Where can I stay up-to-date on AM2R?](#where-can-i-stay-up-to-date-on-am2r)
-  - [Can I play AM2R on a Mac?](#can-i-play-am2r-on-a-mac)
-  - [Can I play AM2R on iOS?](#can-i-play-am2r-on-ios)
-  - [Can I play AM2R on a Chromebook?](#can-i-play-am2r-on-a-chromebook)
-  - [Can I play AM2R on the Switch/PlayStation Vita?](#can-i-play-am2r-on-the-switchplaystation-vita)
-  - [GameMaker: Studio 1.4 has a PlayStation Vita export module. Why can't you make a build?](#gamemaker-studio-14-has-a-playstation-vita-export-module-why-cant-you-make-a-build)
-  - [Can I play AM2R on [third-party handheld emulation device]?](#can-i-play-am2r-on-third-party-handheld-emulation-device)
-  - [How is AM2R still being updated? Didn't the developers get a DMCA?](#how-is-am2r-still-being-updated-didnt-the-developers-get-a-dmca)
 - [Installation Instructions](#installation-instructions)
   - [How do I install the latest version on Windows?](#how-do-i-install-the-latest-version-on-windows)
   - [How do I install the latest version on Linux?](#how-do-i-install-the-latest-version-on-linux)
@@ -98,6 +85,20 @@ title: "Frequently Asked Questions"
   - [How do I set up Multitroid?](#how-do-i-set-up-multitroid)
 
 ## Version/Platform Questions
+
+  - [What is the latest available version?](#what-is-the-latest-available-version)
+  - [Do different platforms have different versions or content?](#do-different-platforms-have-different-versions-or-content)
+  - [What are the currently supported platforms?](#what-are-the-currently-supported-platforms)
+  - [What are the minimum specifications to play AM2R on a PC?](#what-are-the-minimum-specifications-to-play-am2r-on-a-pc)
+  - [What are the minimum specifications for Android?](#what-are-the-minimum-specifications-for-android)
+  - [Where can I stay up-to-date on AM2R?](#where-can-i-stay-up-to-date-on-am2r)
+  - [Can I play AM2R on a Mac?](#can-i-play-am2r-on-a-mac)
+  - [Can I play AM2R on iOS?](#can-i-play-am2r-on-ios)
+  - [Can I play AM2R on a Chromebook?](#can-i-play-am2r-on-a-chromebook)
+  - [Can I play AM2R on the Switch/PlayStation Vita?](#can-i-play-am2r-on-the-switchplaystation-vita)
+  - [GameMaker: Studio 1.4 has a PlayStation Vita export module. Why can't you make a build?](#gamemaker-studio-14-has-a-playstation-vita-export-module-why-cant-you-make-a-build)
+  - [Can I play AM2R on [third-party handheld emulation device]?](#can-i-play-am2r-on-third-party-handheld-emulation-device)
+  - [How is AM2R still being updated? Didn't the developers get a DMCA?](#how-is-am2r-still-being-updated-didnt-the-developers-get-a-dmca)
 
 #### What is the latest available version?  
 The current version is 1.5.5 and can be installed with the AM2RLauncher.
