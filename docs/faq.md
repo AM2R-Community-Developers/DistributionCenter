@@ -4,7 +4,7 @@ title: "Frequently Asked Questions"
 ---
 
 <details>
-<summary> [Version/Platform Questions](#versionplatform-questions) </summary>
+  <summary><a href="#versionplatform-questions">Version/Platform Questions</a></summary>
   
   - [What is the latest available version?](#what-is-the-latest-available-version)
   - [Do different platforms have different versions or content?](#do-different-platforms-have-different-versions-or-content)
