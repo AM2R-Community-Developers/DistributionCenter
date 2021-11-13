@@ -4,7 +4,7 @@ title: "Frequently Asked Questions"
 ---
 
 <details>
-<summary>[Version/Platform Questions](#versionplatform-questions)</summary>
+<summary> [Version/Platform Questions](#versionplatform-questions) </summary>
   
   - [What is the latest available version?](#what-is-the-latest-available-version)
   - [Do different platforms have different versions or content?](#do-different-platforms-have-different-versions-or-content)
@@ -128,7 +128,7 @@ title: "Frequently Asked Questions"
   - [Is Multitroid an official part of the Community Updates?](#is-multitroid-an-official-part-of-the-community-updates)
   - [How do I host on Multitroid?](#how-do-i-host-on-multitroid)
   - [How do I set up Multitroid?](#how-do-i-set-up-multitroid)
-<details>
+</details>
 
 ## Version/Platform Questions
 
