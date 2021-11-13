@@ -3,6 +3,8 @@ layout: post
 title: "Frequently Asked Questions"
 ---
 
+## Table of Contents
+
 <details>
   <summary><a href="#versionplatform-questions">Version/Platform Questions</a></summary>
   
