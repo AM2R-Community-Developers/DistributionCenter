@@ -400,7 +400,7 @@ Place your custom sprite strip within the `/lang/headers/` folder. It must use t
 #### How do I use custom suit palettes?  
 In the `mods\palettes` folder you will find folders containing editable palette files. The left column **must stay untouched**. Edit the right column with your desired colors.
 
-**How can I easily create my own suit palettes?**  
+#### How can I easily create my own suit palettes?  
 Electrix made an easy to use Suit Palette Creator! Check it out here!  
 <https://electrixcodes.github.io/AM2RSuitEditor/>
 
