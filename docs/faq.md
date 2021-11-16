@@ -3,6 +3,136 @@ layout: post
 title: "Frequently Asked Questions"
 ---
 
+## Table of Contents
+
+<details>
+  <summary><a href="#versionplatform-questions">Version/Platform Questions</a></summary>
+  
+<ul><li><a href="#what-is-the-latest-available-version">What is the latest available version?</a></li>
+<li><a href="#do-different-platforms-have-different-versions-or-content">Do different platforms have different versions or content?</a></li>
+<li><a href="#what-are-the-currently-supported-platforms">What are the currently supported platforms?</a></li>
+<li><a href="#what-are-the-minimum-specifications-to-play-am2r-on-a-pc">What are the minimum specifications to play AM2R on a PC?</a></li>
+<li><a href="#what-are-the-minimum-specifications-for-android">What are the minimum specifications for Android?</a></li>
+<li><a href="#where-can-i-stay-up-to-date-on-am2r">Where can I stay up-to-date on AM2R?</a></li>
+<li><a href="#can-i-play-am2r-on-a-mac">Can I play AM2R on a Mac?</a></li>
+<li><a href="#can-i-play-am2r-on-ios">Can I play AM2R on iOS?</a></li>
+<li><a href="#can-i-play-am2r-on-a-chromebook">Can I play AM2R on a Chromebook?</a></li>
+<li><a href="#can-i-play-am2r-on-the-switchplaystation-vita">Can I play AM2R on the Switch/PlayStation Vita?</a></li>
+<li><a href="#gamemaker-studio-14-has-a-playstation-vita-export-module-why-cant-you-make-a-build">GameMaker: Studio 1.4 has a PlayStation Vita export module. Why can't you make a build?</a></li>
+<li><a href="#can-i-play-am2r-on-third-party-handheld-emulation-device">Can I play AM2R on [third-party handheld emulation device]?</a></li>
+<li><a href="#how-is-am2r-still-being-updated-didnt-the-developers-get-a-dmca">How is AM2R still being updated? Didn't the developers get a DMCA?</a></li>
+</ul></details>
+<details>
+  <summary><a href="#installation-instructions">Installation Instructions</a></summary>
+  
+<ul><li><a href="#how-do-i-install-the-latest-version-on-windows">How do I install the latest version on Windows?</a></li>
+<li><a href="#how-do-i-install-the-latest-version-on-linux">How do I install the latest version on Linux?</a></li>
+<li><a href="#how-do-i-make-sure-the-am2rlauncher-will-update-my-copy-of-am2r-11">How do I make sure the AM2RLauncher will update my copy of AM2R 1.1?</a></li>
+<li><a href="#help-the-am2rlauncher-gave-me-an-error-code-when-putting-in-11">Help! The AM2RLauncher gave me an error code when putting in 1.1!</a></li>
+<li><a href="#how-do-i-install-the-latest-version-on-android">How do I install the latest version on Android?</a></li>
+<li><a href="#i-have-no-access-to-any-pc-how-do-i-install-the-latest-version-on-android">I have no access to any PC, how do I install the latest version on Android?</a></li>
+<li><a href="#the-am2rlauncher-takes-a-long-time-to-download-the-update-files-is-this-normal">The AM2RLauncher takes a long time to download the update files. Is this normal?</a></li>
+<li><a href="#ive-encountered-an-issue-with-the-am2rlauncher-what-do-i-do">I've encountered an issue with the AM2RLauncher. What do I do?</a></li>
+<li><a href="#i-am-on-windows-and-launching-the-am2rlauncher-says-i-need-net-framework-48-what-do-i-do">I am on Windows and launching the AM2RLauncher says I need .NET Framework 4.8. What do I do?</a></li>
+<li><a href="#i-am-on-windows-8-and-am2r-doesnt-run-or-has-other-issues-when-i-click-on-play-what-do-i-do">I am on Windows 8 and AM2R doesn't run or has other issues when I click on "Play", what do I do?</a></li>
+<li><a href="#how-do-i-install-mods">How do I install mods?</a></li>
+<li><a href="#i-am-on-linux-and-i-dont-want-to-use-the-am2rlauncher-what-do-i-do-instead">I am on Linux and I don't want to use the AM2RLauncher. What do I do instead?</a></li>
+<li><a href="#i-am-using-manjaro-and-am2r-doesnt-run-how-do-i-fix-this">I am using Manjaro, and AM2R doesn't run. How do I fix this?</a></li>
+</ul></details>
+<details>
+  <summary><a href="#controller-questions">Controller Questions</a></summary>
+  
+<ul><li><a href="#which-controllers-does-am2r-support">Which controllers does AM2R support?</a></li>
+<li><a href="#i-am-on-windows-and-have-trouble-getting-my-switch-pro-controller-to-work-what-do-i-do">I am on Windows and have trouble getting my Switch Pro Controller to work, what do I do?</a></li>
+<li><a href="#the-d-pad-on-my-dualshock-4-controller-is-not-working">The D-Pad on my Dualshock 4 controller is not working!</a></li>
+<li><a href="#i-am-on-linux-and-my-controllers-dont-work">I am on Linux and my controllers don't work!</a></li>
+<li><a href="#how-do-i-get-a-controller-connected-to-my-android-device">How do I get a controller connected to my Android device?</a></li>
+</ul></details>
+<details>
+  <summary><a href="#display-questions">Display Questions</a></summary>
+  
+<ul><li><a href="#whats-am2rs-native-resolution">What's AM2R's native resolution?</a></li>
+<li><a href="#how-do-you-change-the-games-resolution">How do you change the game's resolution?</a></li>
+<li><a href="#how-do-you-change-the-aspect-ratio">How do you change the aspect ratio?</a></li>
+<li><a href="#i-am-on-linux-and-the-display-gets-stuckcorrupted-if-i-boot-from-fullscreen">I am on Linux and the display gets stuck/corrupted if I boot from fullscreen!</a></li>
+<li><a href="#how-do-i-use-the-gameboy-filters">How do I use the GameBoy filters?</a></li>
+<li><a href="#how-do-i-use-filters-like-crt-scanlines-or-xbrz">How do I use filters like CRT, scanlines, or XBRZ?</a></li>
+</ul></details>
+<details>
+  <summary><a href="#general-game-questions">General Game Questions</a></summary>
+  
+<ul><li><a href="#how-many-difficulties-are-there-and-what-are-the-differences-between-them">How many difficulties are there, and what are the differences between them?</a></li>
+<li><a href="#i-dont-see-the-fusion-difficulty-how-do-i-unlock-it">I don't see the Fusion difficulty. How do I unlock it?</a></li>
+<li><a href="#i-already-beat-the-game-once-andor-want-to-jump-straight-into-the-other-gamemodes-how-can-i-unlock-the-other-gamemodes">I already beat the game once and/or want to jump straight into the other gamemodes. How can I unlock the other gamemodes?</a></li>
+<li><a href="#i-want-to-start-the-game-with-the-hatchling-how-do-i-unlock-it">I want to start the game with the Hatchling. How do I unlock it?</a></li>
+<li><a href="#how-many-gamemodes-are-there-and-what-is-the-difference-between-them">How many gamemodes are there and what is the difference between them?</a></li>
+<li><a href="#im-stuck-in-random-game-how-do-i-proceed">I'm stuck in Random Game+! How do I proceed?</a></li>
+<li><a href="#what-is-the-rock-platform-with-wings-and-eyes-and-what-does-it-do">What is the rock-platform with wings and eyes, and what does it do?</a></li>
+<li><a href="#what-is-insanity-mode">What is Insanity Mode?</a></li>
+<li><a href="#what-is-the-maximum-amount-of-pickups-i-can-collect">What is the maximum amount of pickups I can collect?</a></li>
+<li><a href="#how-do-i-translate-the-last-log">How do I translate the last log?*</a></li>
+<li><a href="#how-many-ending-images-are-there-and-how-do-i-unlock-them">How many ending images are there, and how do I unlock them?</a></li>
+</ul></details>
+<details>
+  <summary><a href="#save-questions">Save Questions</a></summary>
+  
+<ul><li><a href="#i-still-have-an-old-version-of-am2r-installed-will-updating-it-delete-my-saves">I still have an old version of AM2R installed, will updating it delete my saves?</a></li>
+<li><a href="#where-can-i-find-my-saves-on-windows">Where can I find my saves on Windows?</a></li>
+<li><a href="#where-can-i-find-my-saves-on-linux">Where can I find my saves on Linux?</a></li>
+<li><a href="#where-can-i-find-my-saves-on-android">Where can I find my saves on Android?</a></li>
+<li><a href="#are-saves-cross-platform">Are saves cross-platform?</a></li>
+<li><a href="#can-i-use-save-files-from-earlier-versions">Can I use save files from earlier versions?</a></li>
+</ul></details>
+<details>
+  <summary><a href="#windows-specific-questions">Windows Specific Questions</a></summary>
+  
+<ul><li><a href="#am2r-doesnt-show-on-the-taskbar">AM2R doesn't show on the Taskbar!</a></li>
+<li><a href="#i-have-trouble-streaming-am2r-in-discord">I have trouble streaming AM2R in Discord!</a></li>
+<li><a href="#am2r-runs-slow-on-windows-way-slower-than-previous-versions">AM2R runs slow on Windows! Way slower than previous versions!</a></li>
+<li><a href="#my-custom-palette--the-8-bit-shader-doesnt-appear">My custom palette / the 8-bit shader doesn't appear!</a></li>
+<li><a href="#how-can-i-make-am2r-on-windows-portable">How can I make AM2R on Windows portable?</a></li>
+</ul></details>
+<details>
+  <summary><a href="#linux-specific-questions">Linux Specific Questions</a></summary>
+  
+<ul><li><a href="#the-launcher-crashes-with-the-message-the-required-library-libhostfxrso-could-not-be-found-on-start">The Launcher crashes with the message "The required library libhostfxr.so could not be found" on start!</a></li>
+<li><a href="#i-have-an-nvidia-gpu-with-proprietary-drivers-and-the-game-doesnt-launch">I have an Nvidia GPU with proprietary drivers and the game doesn't launch!</a></li>
+<li><a href="#i-have-an-amd-gpu-and-the-game-doesnt-launch">I have an AMD GPU and the game doesn't launch!</a></li>
+<li><a href="#i-am-on-ubuntu-have-an-intel-gpu-and-the-game-doesnt-launch">I am on Ubuntu, have an Intel GPU and the game doesn't launch!</a></li>
+<li><a href="#how-can-i-use-custom-palettes-or-change-the-modifiers-file-i-only-see-the-appimage">How can I use custom palettes or change the modifiers file? I only see the AppImage!</a></li>
+<li><a href="#i-am-on-gentoo-and-the-am2rlauncher-doesnt-produce-an-executable-for-me">I am on Gentoo and the AM2RLauncher doesn't produce an executable for me!</a></li>
+</ul></details>
+<details>
+  <summary><a href="#android-specific-questions">Android Specific Questions</a></summary>
+  
+<ul><li><a href="#why-are-some-spots-slow-on-my-android-device">Why are some spots slow on my Android device?</a></li>
+<li><a href="#on-my-pc-i-can-see-custom-fusion-palettes8-bit-shaders-but-not-on-my-android-device-why-cant-i-see-them">On my PC I can see custom Fusion palettes/8-bit shaders, but not on my Android device. Why can't I see them?</a></li>
+</ul></details>
+<details>
+  <summary><a href="#customization-questions">Customization Questions</a></summary>
+  
+<ul><li><a href="#what-mods-are-available-for-am2r">What mods are available for AM2R?</a></li>
+<li><a href="#how-can-i-create-my-own-mods">How can I create my own mods?</a></li>
+<li><a href="#how-do-i-use-custom-title-images">How do I use custom title images?</a></li>
+<li><a href="#how-do-i-use-custom-title-backgrounds">How do I use custom title backgrounds?</a></li>
+<li><a href="#how-do-i-use-custom-area-intros">How do I use custom area intros?</a></li>
+<li><a href="#how-do-i-use-custom-suit-palettes">How do I use custom suit palettes?</a></li>
+<li><a href="#where-can-i-find-custom-suit-palettes-made-by-others">Where can I find custom suit palettes made by others?</a></li>
+<li><a href="#how-do-i-use-custom-fonts">How do I use custom fonts?</a></li>
+<li><a href="#how-do-i-use-custom-music">How do I use custom music?</a></li>
+<li><a href="#how-do-i-use-custom-sound-effects">How do I use custom sound effects?</a></li>
+<li><a href="#how-do-i-use-custom-sprites">How do I use custom sprites?</a></li>
+<li><a href="#how-can-i-change-small-game-variables">How can I change small game variables?</a></li>
+</ul></details>
+<details>
+  <summary><a href="#multitroid-questions">Multitroid Questions</a></summary>
+  
+<ul><li><a href="#is-multitroid-an-official-part-of-the-community-updates">Is Multitroid an official part of the Community Updates?</a></li>
+<li><a href="#how-do-i-host-on-multitroid">How do I host on Multitroid?</a></li>
+<li><a href="#how-do-i-set-up-multitroid">How do I set up Multitroid?</a></li>
+</ul></details>
+
+
 ## Version/Platform Questions
 
 #### What is the latest available version?  
