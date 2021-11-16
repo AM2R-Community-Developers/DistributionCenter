@@ -41,7 +41,7 @@ AM2R cannot be run on iOS.
 
 #### Can I play AM2R on a Chromebook?  
 You have four options:
-- Use a Windows VM. This is NOT recommended, as Chromebooks are notoriously weak/slow devices.
+- Use a VM. This is NOT recommended, as Chromebooks are notoriously weak/slow devices.
 - Install the Android version of AM2R on your Chromebook. This **requires a controller** in order to play. Keyboard controls will not currently work.
 - Install the Linux version of AM2R on your Chromebook via Crostini. This **requires an x86 based** Chromebook and you need to have Crostini/Linux (Beta) enabled on your device. For more details, check the Linux Installation Guide further down.
 - Install a Linux distro onto your Chromebook, and use the native Linux version. This will lead to better performance, should you struggle with the option above, but only works with select Chromebooks. See this for more details: <https://wiki.galliumos.org/Hardware_Compatibility>
@@ -65,10 +65,8 @@ To limit liability and respect the DMCA, we only distribute patches that are app
 ## Installation Instructions
 
 #### How do I install the latest version on Windows?  
-1. Head to the AM2RLauncher download page, download the Windows version, and unzip the file to its own folder:  
-<https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/latest>
-2. Make sure that you have `.NET Framework 4.8` installed. Chances are that you probably do, but if not the official download from Microsoft can be found here:  
-<https://dotnet.microsoft.com/download/dotnet-framework/net48>
+1. Head to the AM2RLauncher download page, download the Windows version, and unzip the file to its own folder: <https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/latest>
+2. Make sure that you have `.NET Framework 4.8` installed. Chances are that you probably do, but if not the official download from Microsoft can be found here: <https://dotnet.microsoft.com/download/dotnet-framework/net48>
 3. Locate your copy of AM2R 1.1.
 4. Open the Launcher by double-clicking on the AM2RLauncher.
 5. Click on the `Download` button and let it download the necessary patch files.
@@ -76,11 +74,9 @@ To limit liability and respect the DMCA, we only distribute patches that are app
 7. Click on the `Install` button.
 
 #### How do I install the latest version on Linux?  
-1. Head to the AM2RLauncher download page, download the Linux version and unzip the file to its own folder:  
-<https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/latest>
+1. Head to the AM2RLauncher download page, download the Linux version and unzip the file to its own folder: <https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/latest>
 2. Make sure that you have the following dependencies installed: `.NET Runtime` (5.0 or higher), `xdelta3`, `gtk3`, `libappindicator3`, `webkitgtk`, `openssl` and `fuse2`.  
-Instructions on how to install .NET for your distro can be found here:  
-<https://docs.microsoft.com/dotnet/core/install/linux>
+Instructions on how to install .NET for your distro can be found here: <https://docs.microsoft.com/dotnet/core/install/linux>
 3. Locate your copy of AM2R 1.1.
 4. Mark `AM2RLauncher.Gtk` as an executable, and then run it. This can be done like this: `chmod +x AM2RLauncher.Gtk` and `./AM2RLauncher`. Alternatively, if your desktop environment supports it, you can also double-click on the file after it has been marked as an executable.
 5. Click on the `Download` button and let it download the necessary patch files.
@@ -106,8 +102,7 @@ There is a way to create the APK on your Android device without the AM2RLauncher
 
 #### I have no access to any PC, how do I install the latest version on Android?  
 1. Place your copy of AM2R 1.1 into your Downloads folder and make sure it's named like this: `AM2R_11.zip` (case sensitive).  
-2. Download and install Termux (preferably from F-Droid, not the Google Play Store as those  builds are not official). You can find download links for that here:  
-<https://f-droid.org/packages/com.termux/>  
+2. Download and install Termux (preferably from F-Droid, not the Google Play Store as those  builds are not official). You can find download links for that here: <https://f-droid.org/packages/com.termux/>  
 Just scroll down, you don't need to download the F-Droid Store. Download and install the Termux APK for the latest version.  
 3. Open Termux, let it set up, and then paste this command in there:  
 `pkg install wget && wget -O patcher.sh https://github.com/AM2R-Community-Developers/AM2R-Autopatcher-Android/raw/main/patcher.sh && chmod +x patcher.sh && ./patcher.sh`
