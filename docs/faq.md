@@ -205,7 +205,7 @@ To limit liability and respect the DMCA, we only distribute patches that are app
 
 #### How do I install the latest version on Linux?  
 1. Head to the AM2RLauncher download page, download the Linux version and unzip the file to its own folder: <https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/latest>
-2. Make sure that you have the following dependencies installed: `.NET Runtime` (5.0 or higher), `xdelta3`, `gtk3`, `libappindicator3`, `webkitgtk`, `openssl` and `fuse2`.  
+2. Make sure that you have the following dependencies for the AM2RLauncher installed: `.NET Runtime` (5.0 or higher), `xdelta3`, `gtk3`, `libappindicator3`, `webkitgtk`, `openssl` and `fuse2`. In addition, you also need the following dependencies for AM2R itself: Multilib / 32-Bit architecture added, and the **32-Bit version** of `libpulse`.  
 Instructions on how to install .NET for your distro can be found here: <https://docs.microsoft.com/dotnet/core/install/linux>
 3. Locate your copy of AM2R 1.1.
 4. Mark `AM2RLauncher.Gtk` as an executable, and then run it. This can be done like this: `chmod +x AM2RLauncher.Gtk` and `./AM2RLauncher`. Alternatively, if your desktop environment supports it, you can also double-click on the file after it has been marked as an executable.
