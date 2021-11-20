@@ -106,7 +106,7 @@ title: "Frequently Asked Questions"
   <summary><a href="#android-specific-questions">Android Specific Questions</a></summary>
   
 <ul><li><a href="#why-are-some-spots-slow-on-my-android-device">Why are some spots slow on my Android device?</a></li>
-<li><a href="#on-my-pc-i-can-see-custom-fusion-palettes8-bit-shaders-but-not-on-my-android-device-why-cant-i-see-them">On my PC I can see custom Fusion palettes/8-bit shaders, but not on my Android device. Why can't I see them?</a></li>
+<li><a href="#on-my-pc-i-can-see-custom-fusion-palettes-but-not-on-my-android-device-why-cant-i-see-them">On my PC I can see custom Fusion palettes/8-bit shaders, but not on my Android device. Why can't I see them?</a></li>
 </ul></details>
 <details>
   <summary><a href="#customization-questions">Customization Questions</a></summary>
@@ -432,7 +432,10 @@ AM2R requires DirectX9.0 installed and hardware shader support to properly displ
 Until DirectX9.0 is installed and the shaders properly compile, the above mentioned features will not work properly.  
 The required DirectX version (June 2010) can be found on Microsoft's website here:  
 <https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe>  
-In addition, some graphics cards simply will not support the repalette shader.
+
+Additionally, the repalette shader will *not* apply to the M:SR Fusion Suit variant. It will only recolor the Fusion Suit on the default setting. This can be accessed in the Extras menu.  
+
+A final note: some graphics cards simply will not support the repalette shader.  
 
 #### How can I make AM2R on Windows portable?  
 In order to make AM2R portable, create the following files in the asset folder (the folder containing AM2R.exe and data.win):
@@ -484,7 +487,7 @@ You probaly missed the `lzma` USE flag for xdelta3. Add it and try again.
 Huge rooms and X morphing have a few effects going on that most Android devices' GPUs (or lack thereof) have difficulty rendering. This is completely normal, and there is nothing that can be done about it.  
 If you installed HQ music, that could also potentially lead to slowdown.
 
-#### On my PC I can see custom Fusion palettes/8-bit shaders, but not on my Android device. Why can't I see them?  
+#### On my PC I can see custom Fusion palettes, but not on my Android device. Why can't I see them?  
 Custom palettes have been disabled on Android due to *drastic* performance issues.
 
 ## Customization Questions
