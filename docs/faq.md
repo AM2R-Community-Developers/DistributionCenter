@@ -106,7 +106,7 @@ title: "Frequently Asked Questions"
   <summary><a href="#android-specific-questions">Android Specific Questions</a></summary>
   
 <ul><li><a href="#why-are-some-spots-slow-on-my-android-device">Why are some spots slow on my Android device?</a></li>
-<li><a href="#on-my-pc-i-can-see-custom-fusion-palettes-but-not-on-my-android-device-why-cant-i-see-them">On my PC I can see custom Fusion palettes/8-bit shaders, but not on my Android device. Why can't I see them?</a></li>
+<li><a href="#on-my-pc-i-can-see-custom-fusion-palettes-but-not-on-my-android-device-why-cant-i-see-them">On my PC I can see custom Fusion palettes, but not on my Android device. Why can't I see them?</a></li>
 </ul></details>
 <details>
   <summary><a href="#customization-questions">Customization Questions</a></summary>
