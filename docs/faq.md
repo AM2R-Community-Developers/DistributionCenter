@@ -456,18 +456,21 @@ Microsoft's instructions for installing .NET Core can be found here:
 Scroll down to the distro you're using, and then click on your installed distro version to get more detailed commands.
 
 #### I have an Nvidia GPU with proprietary drivers and the game doesn't launch!  
-Make sure that you have the 32-bit version of your drivers installed first.  
+Update to the AM2RLauncher 2.2.0 or later, as this problem is fixed there!  
+Otherwise, make sure that you have the 32-bit version of your drivers installed first.  
 Then in the AM2RLauncher, go to the `Options` tab, and use the LD_PRELOAD environment variable that points to your OpenGL drivers.  
 If you're on Ubuntu, this will probably look like this `LD_PRELOAD=/usr/lib/i386-linux-gnu/libGL.so.1`, if you're on Arch, it'll look like this `LD_PRELOAD=/usr/lib32/libGL.so`.  
 It may look different on other distros. If you have to use a different flag for a different distro, please let us know on the Official AM2R Discord Server so we can include it here!
 
 #### I have an AMD GPU and the game doesn't launch!  
-Make sure that you have the 32-bit version of your drivers installed first.  
+Update to the AM2RLauncher 2.2.0 or later, as this problem is fixed there!  
+Otherwise, make sure that you have the 32-bit version of your drivers installed first.  
 Then in the AM2RLauncher, go to the `Options` tab, and use one of the following environment variables: `radeonsi_sync_compile=true`, `R600_DEBUG=mono`, `R600_DEBUG=vs.ps`, `R600_DEBUG=check_vm`.  
 It's not a guarantee which one will work, so you'll likely have to try them all.
 
 #### I am on Ubuntu, have an Intel GPU and the game doesn't launch!  
-Make sure that you have the 32-bit version of your drivers installed first.  
+Update to the AM2RLauncher 2.2.0 or later, as this problem is fixed there!  
+Otherwise, make sure that you have the 32-bit version of your drivers installed first.  
 Then in the AM2RLauncher, go to the `Options` tab, and use the following environment variable: `LIBGL_DRI3_DISABLE=1`.
 
 #### How can I use custom palettes or change the modifiers file? I only see the AppImage!  
