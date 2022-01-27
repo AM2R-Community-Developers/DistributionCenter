@@ -163,8 +163,9 @@ These specs will provide full-speed gameplay almost everywhere, with some slowdo
 <https://youtube.com/c/am2rcommunityupdates>
 
 #### Can I play AM2R on a Mac?  
-Macs are not officially supported. However, M1 Macs are reportedly able to run AM2R via Crossover.  
-For older Macs, an x86-based system may be able to run AM2R via Wine/Wineskin or through a VM/Bootcamp.
+Macs are not officially supported. There is however, an unofficial port available here: <https://github.com/Miepee/AM2R-Autopatcher-Mac>  
+
+If you're unable to use that, M1 and x64-based Macs are reportedly able to run AM2R via Crossover, and for older Macs an x86-based system may be able to run AM2R via Wine/Wineskin or through a VM/Bootcamp. Keep in mind however, that those solutions will be *significantly* slower than running it natively.
 
 #### Can I play AM2R on iOS?  
 AM2R cannot be run on iOS.
