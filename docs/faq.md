@@ -290,7 +290,7 @@ The Switch Pro Controller is not natively supported by Windows. You need to use 
 Dualshock 4's D-Pad won't work with AM2R, due to Sony making it act as an analogue stick internally/the DS4 not being natively supported by Windows. You need to use a seperate program that converts DInput to XInput, like DS4Windows or Steam - or you can just play without the D-Pad.
 
 #### I am on Linux and my controllers don't work!  
-1. Check first if enabling Compatibility Mode in the Control options and restarting AM2R fixes the issue.
+1. Check first if enabling `Compatibility Mode` in the Control options and restarting AM2R fixes the issue.
 2. GameMaker: Studio 1.4 recommends the following dependencies, try to see if installing them fixes it: `jstest-gtk` and `joystick`.
 3. If all fails, ask in the AM2R Discord Server for more help.
 
