@@ -20,6 +20,7 @@ title: "Frequently Asked Questions"
 <li><a href="#can-i-play-am2r-on-the-switchplaystation-vita">Can I play AM2R on the Switch/PlayStation Vita?</a></li>
 <li><a href="#gamemaker-studio-14-has-a-playstation-vita-export-module-why-cant-you-make-a-build">GameMaker: Studio 1.4 has a PlayStation Vita export module. Why can't you make a build?</a></li>
 <li><a href="#can-i-play-am2r-on-third-party-handheld-emulation-device">Can I play AM2R on [third-party handheld emulation device]?</a></li>
+<li><a href="#can-i-play-am2r-on-arm-linux-devices">Can I play AM2R on ARM Linux devices?</a></li>
 <li><a href="#how-is-am2r-still-being-updated-didnt-the-developers-get-a-dmca">How is AM2R still being updated? Didn't the developers get a DMCA?</a></li>
 </ul></details>
 <details>
@@ -185,6 +186,11 @@ That module was discontinued before any of the developers on our team could legi
 
 #### Can I play AM2R on [third-party handheld emulation device]?  
 If it is running Android or x86-based Linux, you can probably install the respective version of AM2R. However, these devices are not officially supported as they often use highly specialized versions of Android and Linux.
+
+### Can I play AM2R on ARM Linux devices?  
+ARM Linux is officially unsupported, as the Game Maker Studio versio we use does not have ARM Linux Support.  
+However, there is a community made tool that allows you to run Android Games on ARM Linux, which you can check out here: <https://github.com/JohnnyonFlame/droidports>  
+A guide on how to use it can be found in this Reddit post, along with some answered FAQ in the comments: <https://www.reddit.com/r/AM2R/comments/pgp2x7/am2r_raspberry_pi_take_4/>
 
 #### How is AM2R still being updated? Didn't the developers get a DMCA?  
 After the DMCA back in 2016 the original team ceased development. However, a talented programmer named YellowAfterlife reconstructed the source code in about 4 months.  
