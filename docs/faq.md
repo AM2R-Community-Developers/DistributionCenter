@@ -188,7 +188,7 @@ That module was discontinued before any of the developers on our team could legi
 If it is running Android or x86-based Linux, you can probably install the respective version of AM2R. However, these devices are not officially supported as they often use highly specialized versions of Android and Linux.
 
 ### Can I play AM2R on ARM Linux devices?  
-ARM Linux is officially unsupported, as the Game Maker Studio versio we use does not have ARM Linux Support.  
+ARM Linux is officially unsupported, as the Game Maker: Studio version we use does not have ARM Linux Support.  
 However, there is a community made tool that allows you to run Android Games on ARM Linux, which you can check out here: <https://github.com/JohnnyonFlame/droidports>  
 A guide on how to use it can be found in this Reddit post, along with some answered FAQ in the comments: <https://www.reddit.com/r/AM2R/comments/pgp2x7/am2r_raspberry_pi_take_4/>
 
