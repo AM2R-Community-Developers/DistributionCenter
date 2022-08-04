@@ -257,7 +257,7 @@ If you encountered a bug with the Launcher itself or something where support can
 
 #### I am on Windows and launching the AM2RLauncher says I need .NET Framework 4.8. What do I do?  
 You click on the `Please lead me to the download` button. Alternatively, if you already closed it, visit this link:  
-https://dotnet.microsoft.com/download/dotnet-framework/net48
+<https://dotnet.microsoft.com/download/dotnet-framework/net48>
 
 #### I am on Windows 8 and AM2R doesn't run or has other issues when I click on "Play", what do I do?  
 1. Navigate into `Profiles/Community Updates (Latest)`.
