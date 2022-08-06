@@ -161,7 +161,7 @@ These specs will provide full-speed gameplay almost everywhere, with some slowdo
 
 #### Where can I stay up-to-date on AM2R?  
 - [Reddit](https://reddit.com/r/AM2R) <br> <!--<br> needed for formatting-->
-- [Discord](https://discord.gg/YTQnkAJ) and [Matrix](https://matrix.to/#/#am2r:matrix.org) (Connected via a cross-platform bridge) <br>
+- [Discord](https://discord.gg/YTQnkAJ) and [Matrix](https://matrix.to/#/#am2r:matrix.org). Discord and Matrix are bridged together. <br>
 - [Community Updates Youtube Channel](https://youtube.com/c/am2rcommunityupdates) <br>
 - [Legacy AM2R blog](https://metroid2remake.blogspot.com/) (No community updates will be present here)
 
