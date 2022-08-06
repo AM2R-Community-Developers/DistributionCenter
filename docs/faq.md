@@ -147,9 +147,7 @@ Windows, Android, and Linux (x86).
 
 #### What are the minimum specifications to play AM2R on a PC?
 An AMD E-300 APU with Radeon HD Graphics and 3GB of RAM should give you fullspeed for the whole game assuming you play on 4:3 and have custom palettes disabled, with some slight stuttering for X Parasite morphing.  
-
 If you have perfomance problems on Windows, be sure to check out the question "[AM2R runs slow on Windows!](https://am2r-community-developers.github.io/DistributionCenter/faq.html#am2r-runs-slow-on-windows-way-slower-than-previous-versions)".  
-
 Chromebooks will need higher requirements if you're using Linux (Beta)/Crostini.
 
 #### What are the minimum specifications for Android?  
@@ -195,8 +193,11 @@ However, there is a community made tool that allows you to run Android Games on 
 A guide on how to use it can be found in this Reddit post, along with some answered FAQ in the comments: <https://www.reddit.com/r/AM2R/comments/pgp2x7/am2r_raspberry_pi_take_4/>
 
 #### How is AM2R still being updated? Didn't the developers get a DMCA?  
-After the DMCA back in 2016 the original team ceased development. However, a talented programmer named YellowAfterlife reconstructed the source code in about 4 months. This source was eventually released to the public, so a few members of the community took it upon themselves to release a "community patch" to fix some major bugs in the game. Thanks to scope creep and too much free time, one update became bug fix patches, then texture changes, until eventually updates began adding new content planned by the original devs before the DMCA. Features like New Game+ and Random Game+ modes were added, along with the planned secret ending, Fusion Difficulty, and even widescreen! <br>
-For almost 5 years, the community patchers have been adding content to AM2R. Some of the creatures that didn't make it from the original Metroid II, new textures, X parasites, log books, and more have been added. This all works towards the final 2.0 update - a full graphical overhaul with unannounced content. To limit liability and respect the DMCA, we only distribute patches that are applied to the original AM2R 1.1 like a ROMhack. Our AM2RLauncher application automates this process for easy installation and updates.
+After the DMCA back in 2016 the original team ceased development. However, a talented programmer named YellowAfterlife reconstructed the source code in about 4 months.  
+That source was eventually released to the public and a few members of the community took it upon themselves to release a "community patch" to fix some major bugs in the game. Eventually that one update became multiple bug fix patches, until eventually it started to add some content that was planned by the original devs before the DMCA.  
+Things like New Game+ and Random Game+ modes were added, along with the planned secret ending, widescreen and eventually Fusion Difficulty!  
+For almost 5 years now we've been adding content like some of the creatures that didn't make it from the original Metroid II, fixing bugs from the initial release, and working towards the final 2.0 update - a full graphical overhaul with some other unannounced content.  
+To limit liability and respect the DMCA, we only distribute patches that are applied to AM2R 1.1 like a ROMhack. Our AM2RLauncher application automates this process for easy installation and updates.
 
 ## Installation Instructions
 
@@ -622,12 +623,11 @@ You can do that via the modifiers.ini file. Below is not a comprehensive list of
 No, Multitroid is a mod made by MilesTheNerd. While we greatly enjoy the mod and Miles is part of our team, it is not officially supported at present due to the time and energy required to provide official multiplayer support.
 
 #### How do I host on Multitroid?  
-1. Install [AM2RServer](https://github.com/lassiterm/AM2R-Server/releases/latest)
+1. Download AM2RServer at <https://github.com/lassiterm/AM2R-Server/releases/latest>
 2. Either port forward, or use a VPN (like Hamachi, ZeroTier, Radmin etc.).
 3. Launch the AM2R Server.
-4. Give the other players your **external** IP address and port to connect with.
-
-Port forwarding is different on every router, consult your routers manual or the internet for more info. For VPNs, consult their documentation. We cannot answer questions about specific routers or VPNs.
+4. Give the other players your **external** IP address and port to connect with.  
+    Port forwarding is different on every router, consult your routers manual or the internet for more info. For VPNs, consult their documentation. We cannot answer questions about specific routers or VPNs.
 
 #### How do I set up Multitroid?  
 1. Install the mod (see "[How do I install mods](https://am2r-community-developers.github.io/DistributionCenter/faq.html#how-do-i-install-mods)").
