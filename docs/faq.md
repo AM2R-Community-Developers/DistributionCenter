@@ -623,7 +623,7 @@ You can do that via the modifiers.ini file. Below is not a comprehensive list of
 No, Multitroid is a mod made by MilesTheNerd. While we greatly enjoy the mod and Miles is part of our team, it is not officially supported at present due to the time and energy required to provide official multiplayer support.
 
 #### How do I host on Multitroid?  
-1. Download AM2RServer at <https://github.com/lassiterm/AM2R-Server/releases/latest>
+1. Download the corresponding AM2RServer version at <https://github.com/lassiterm/AM2R-Server/releases/latest>
 2. Either port forward, or use a VPN (like Hamachi, ZeroTier, Radmin etc.).
 3. Launch the AM2R Server.
 4. Give the other players your **external** IP address and port to connect with.  
