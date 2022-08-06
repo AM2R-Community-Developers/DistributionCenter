@@ -147,7 +147,9 @@ Windows, Android, and Linux (x86).
 
 #### What are the minimum specifications to play AM2R on a PC?
 An AMD E-300 APU with Radeon HD Graphics and 3GB of RAM should give you fullspeed for the whole game assuming you play on 4:3 and have custom palettes disabled, with some slight stuttering for X Parasite morphing.  
+
 If you have perfomance problems on Windows, be sure to check out the question "[AM2R runs slow on Windows!](https://am2r-community-developers.github.io/DistributionCenter/faq.html#am2r-runs-slow-on-windows-way-slower-than-previous-versions)".  
+
 Chromebooks will need higher requirements if you're using Linux (Beta)/Crostini.
 
 #### What are the minimum specifications for Android?  
@@ -158,15 +160,15 @@ Chromebooks will need higher requirements if you're using Linux (Beta)/Crostini.
 These specs will provide full-speed gameplay almost everywhere, with some slowdowns in non-critial areas with a large amount of objects, such as the main caverns of Area 2, Area 3, and Area 5. Weaker GPUs may slow down in Fusion difficulty during X Parasite morphing.
 
 #### Where can I stay up-to-date on AM2R?  
-<https://bit.ly/AM2Rblog>  
-<https://reddit.com/r/AM2R>  
-<https://discord.gg/YTQnkAJ>  
-<https://youtube.com/c/am2rcommunityupdates>
+- [Reddit](https://reddit.com/r/AM2R) <br> <!--<br> needed for formatting-->
+- [Discord](https://discord.gg/YTQnkAJ) and [Matrix](https://matrix.to/#/#am2r:matrix.org) (Connected via a cross-platform bridge) <br>
+- [Community Updates Youtube Channel](https://youtube.com/c/am2rcommunityupdates) <br>
+- [Legacy AM2R blog](https://metroid2remake.blogspot.com/) (No community updates will be present here)
 
 #### Can I play AM2R on a Mac?  
-Macs are not officially supported. There is however, an unofficial port available here: <https://github.com/Miepee/AM2R-Autopatcher-Mac>  
+Macs are not officially supported. There is however, an unofficial port available here: <https://github.com/Miepee/AM2R-Autopatcher-Mac>. Bootcamp will also run in older intel-based macs, giving you full native performance while on the Windows version.
 
-If you're unable to use that, M1 and x64-based Macs are reportedly able to run AM2R via Crossover, and for older Macs an x86-based system may be able to run AM2R via Wine/Wineskin or through a VM/Bootcamp. Keep in mind however, that those solutions will be *significantly* slower than running it natively.
+If you're unable to use the above, M1 and x64-based Macs are reportedly able to run AM2R via Crossover, and for older Macs an x86-based system may be able to run AM2R via Wine/Wineskin or through a VM. Keep in mind however, these solutions will be *significantly* slower than running it natively.
 
 #### Can I play AM2R on iOS?  
 AM2R cannot be run on iOS.
@@ -179,13 +181,13 @@ You have four options:
 - Install a Linux distro onto your Chromebook, and use the native Linux version. This will lead to better performance, should you struggle with the option above, but only works with select Chromebooks. See this for more details: <https://wiki.galliumos.org/Hardware_Compatibility>
 
 #### Can I play AM2R on the Switch/PlayStation Vita?  
-The Switch and PlayStation Vita are not supported platforms. Ports of the Community Updates for these platforms have been made by third parties, but they were created with pirated development tools and violated SDK NDAs; as such every support question regarding them will be deleted, and may result in a ban from our subreddit and Discord server.
+The Switch and PlayStation Vita are not supported platforms. Ports of the Community Updates for these platforms have been made by third parties, but they were created with pirated development tools and violated SDK NDAs; as such every support question regarding them will be deleted, and may result in a ban from all communication channels.
 
 #### GameMaker: Studio 1.4 has a PlayStation Vita export module. Why can't you make a build?  
 That module was discontinued before any of the developers on our team could legitimately obtain a copy. Somebody else who already has the module could export the game, but we can't officially support it as we don't have firsthand access and are unsure of the legal concerns surrounding the Sony developer agreement.
 
 #### Can I play AM2R on [third-party handheld emulation device]?  
-If it is running Android or x86-based Linux, you can probably install the respective version of AM2R. However, these devices are not officially supported as they often use highly specialized versions of Android and Linux.
+If it is running Android or x86-based Linux, you can probably install the respective version of AM2R. However, these devices are not officially supported as they often use highly specialized versions of Android and Linux. 
 
 #### Can I play AM2R on ARM Linux devices?  
 ARM Linux is officially unsupported, as the Game Maker: Studio version we use does not have ARM Linux Support.  
@@ -193,17 +195,14 @@ However, there is a community made tool that allows you to run Android Games on 
 A guide on how to use it can be found in this Reddit post, along with some answered FAQ in the comments: <https://www.reddit.com/r/AM2R/comments/pgp2x7/am2r_raspberry_pi_take_4/>
 
 #### How is AM2R still being updated? Didn't the developers get a DMCA?  
-After the DMCA back in 2016 the original team ceased development. However, a talented programmer named YellowAfterlife reconstructed the source code in about 4 months.  
-That source was eventually released to the public and a few members of the community took it upon themselves to release a "community patch" to fix some major bugs in the game. Eventually that one update became multiple bug fix patches, until eventually it started to add some content that was planned by the original devs before the DMCA.  
-Things like New Game+ and Random Game+ modes were added, along with the planned secret ending, widescreen and eventually Fusion Difficulty!  
-For almost 5 years now we've been adding content like some of the creatures that didn't make it from the original Metroid II, fixing bugs from the initial release, and working towards the final 2.0 update - a full graphical overhaul with some other unannounced content.  
-To limit liability and respect the DMCA, we only distribute patches that are applied to AM2R 1.1 like a ROMhack. Our AM2RLauncher application automates this process for easy installation and updates.
+After the DMCA back in 2016 the original team ceased development. However, a talented programmer named YellowAfterlife reconstructed the source code in about 4 months. This source was eventually released to the public, so a few members of the community took it upon themselves to release a "community patch" to fix some major bugs in the game. Thanks to scope creep and too much free time, one update became bug fix patches, then texture changes, until eventually updates began adding new content planned by the original devs before the DMCA. Features like New Game+ and Random Game+ modes were added, along with the planned secret ending, Fusion Difficulty, and even widescreen! <br>
+For almost 5 years, the community patchers have been adding content to AM2R. Some of the creatures that didn't make it from the original Metroid II, new textures, X parasites, log books, and more have been added. This all works towards the final 2.0 update - a full graphical overhaul with unannounced content. To limit liability and respect the DMCA, we only distribute patches that are applied to the original AM2R 1.1 like a ROMhack. Our AM2RLauncher application automates this process for easy installation and updates.
 
 ## Installation Instructions
 
 #### How do I install the latest version on Windows?  
 1. Head to the AM2RLauncher download page, download the Windows version, and unzip the file to its own folder: <https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/latest>
-2. Make sure that you have `.NET Framework 4.8` installed. Chances are that you probably do, but if not the official download from Microsoft can be found here: <https://dotnet.microsoft.com/download/dotnet-framework/net48>
+2. Make sure that you have `.NET Framework 4.8` installed. The official download from Microsoft can be found here: <https://dotnet.microsoft.com/download/dotnet-framework/net48>
 3. Locate your copy of AM2R 1.1.
 4. Open the Launcher by double-clicking on the AM2RLauncher.
 5. Click on the `Download` button and let it download the necessary patch files.
@@ -211,14 +210,57 @@ To limit liability and respect the DMCA, we only distribute patches that are app
 7. Click on the `Install` button.
 
 #### How do I install the latest version on Linux?  
+
+For a universal installation of dependencies (except AM2R 1.1) and the AM2RLauncher on all Linux Distributions, including the Steam Deck, you have the option to install the AM2RLauncher via Flatpak:
+
+1. Follow the instructions for your Distro to install [Flatpak](https://flatpak.org/setup/) if don't have it installed already. Steam Deck users can skip this step.
+2. Install the [AM2RLauncher Flatpak](https://flathub.org/apps/details/io.github.am2r_community_developers.AM2RLauncher). This may be from the linked site, or your software center, such as `Discover` on the Steam Deck.
+3. In the Launcher, click on the `Download` button and let it download the necessary patch files.
+4. Click on the `Select 1.1` button and select your copy of AM2R 1.1 and let the AM2RLauncher verify it.
+5. Click on the `Install` button.
+
+Otherwise, you can install directly from the github for a smaller native package:
+
 1. Head to the AM2RLauncher download page, download the Linux version and unzip the file to its own folder: <https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/latest>
-2. Make sure that you have the following dependencies for the AM2RLauncher installed: `.NET Runtime` (5.0 or higher), `xdelta3`, `gtk3`, `libappindicator3`, `webkitgtk`, `openssl` and `fuse2`. In addition, you also need the following dependencies for AM2R itself: Multilib / 32-Bit architecture added, and the **32-Bit version** of `libpulse`.  
-Instructions on how to install .NET for your distro can be found here: <https://docs.microsoft.com/dotnet/core/install/linux>
-3. Locate your copy of AM2R 1.1.
+2. Make sure that you have the following dependencies for the AM2RLauncher installed: `.NET Runtime` (5.0 or higher), `xdelta3`, `gtk3`, `libappindicator3`, `webkitgtk`, `openssl` and `fuse2`. In addition, you also need the following dependencies for AM2R itself: Multilib / 32-Bit architecture added, and the **32-Bit version** of `libpulse`. Find your distribution and follow the command to install them:
+<br>
+
+   - **Ubuntu**
+  
+  On Ubuntu based distributions (Mint, Zorin etc.) you can install the above listed dependencies by following these instructions:
+
+  1. Enable the i386 architecture if you haven't already:
+  ```
+  sudo dpkg --add-architecture i386
+  sudo apt update && sudo apt install libc6:i386 libncurses5:i386 libstdc++6:i386
+  ```
+  1. Install the rest of the dependencies with  
+  ```
+  sudo apt install libappindicator3-1 libwebkit2gtk-4.0-37 xdelta3 libgl1:i386 libopenal1:i386 libpulse0:i386 default-jre`
+  ```
+  
+   - **Arch Linux**
+  
+  On Arch Linux based distributions you can install the above listed dependencies by running this command:  
+  (Multilib repositories are required, instructions on how to enable them can be found [here on the ArchWiki](https://wiki.archlinux.org/title/Official_repositories#Enabling_multilib))  
+`sudo pacman -S --needed dotnet-runtime fuse2 gtk3 libappindicator-gtk3 openssl webkit2gtk xdelta3 lib32-mesa lib32-openal lib32-libpulse jre-openjdk`
+  
+   - **Fedora**
+  
+On Fedora based distributions you can install the above listed dependencies by running this command:  
+```
+sudo dnf install dotnet-runtime-6.0 libappindicator-gtk3 xdelta mesa-libGL.i686 pulseaudio-libs.1686 openal-soft.i686 java-latest-openjdk`
+```
+<br>
+3. Follow the instructions at <https://docs.microsoft.com/en-us/dotnet/core/install/linux> to download and install the .NET Core Runtime for your distribution
+
 4. Mark `AM2RLauncher.Gtk` as an executable, and then run it. This can be done like this: `chmod +x AM2RLauncher.Gtk` and `./AM2RLauncher`. Alternatively, if your desktop environment supports it, you can also double-click on the file after it has been marked as an executable.
-5. Click on the `Download` button and let it download the necessary patch files.
-6. Click on the `Select 1.1` button and select your copy of AM2R 1.1 and let the AM2RLauncher verify it.
-7. Click on the `Install` button.
+
+6. Click on the `Download` button and let it download the necessary patch files.
+
+8. Click on the `Select 1.1` button and select your copy of AM2R 1.1 and let the AM2RLauncher verify it.
+
+10. Click on the `Install` button.
 
 #### How do I make sure the AM2RLauncher will update my copy of AM2R 1.1?  
 The AM2RLauncher will make sure that your copy is legitimate.
@@ -251,7 +293,7 @@ Just scroll down, you don't need to download the F-Droid Store. Download and ins
 Yes. Depending on your internet speed and your download mirror's speed, this may take a while. You can try changing your mirror by going to the `Download Mirror` dropdown in the `Options` tab and seeing if that gets you a better speed.
 
 #### I've encountered an issue with the AM2RLauncher. What do I do?  
-You can ask for support in the Official AM2R Discord Server. Please provide relevant system information, steps you took, and the `AM2RLauncher.log` file which can be found in the `Logs` folder.  
+You can ask for support in the Official AM2R Discord/Matrix Server. Please provide relevant system information, steps you took, and the `AM2RLauncher.log` file which can be found in the `Logs` folder.  
 On Linux, the Logs folder will be found in `~/.local/share/AM2RLauncher` instead.  
 If you encountered a bug with the Launcher itself or something where support cannot help you, open an issue at the AM2RLauncher GitHub page.
 
@@ -279,10 +321,10 @@ Additionally, we cannot guarantee future support for Windows 8, as official supp
 #### I am on Linux and I don't want to use the AM2RLauncher. What do I do instead?  
 This is not recommended, due to you missing out on automatic release updates, mod support, and easier use. However, the legacy installer can be found here:  
 <https://github.com/AM2R-Community-Developers/AM2R-Autopatcher-Linux>  
-Again, it is not recommended to use the manual installation. For help, please use our GitHub issues page or the Official AM2R Discord Server.
+Again, it is not recommended to use the manual installation. For help, please use our GitHub issues page or the Official AM2R Discord/Matrix Server.
 
 #### I am using Manjaro, and AM2R doesn't run. How do I fix this?  
-Unfortunately, we have been unable to figure out why AM2R will not run on Manjaro. Insights are greatly appreciated at our GitHub issues page or the Official AM2R Discord Server.
+Unfortunately, we have been unable to figure out why AM2R will not run on Manjaro. Insights are greatly appreciated at our GitHub issues page or the Official AM2R Discord/Matrix Server.
 
 ## Controller Questions
 
@@ -298,7 +340,7 @@ Dualshock 4's D-Pad won't work with AM2R, due to Sony making it act as an analog
 #### I am on Linux and my controllers don't work!  
 1. Check first if enabling `Compatibility Mode` in the Control options and restarting AM2R fixes the issue.
 2. GameMaker: Studio 1.4 recommends the following dependencies, try to see if installing them fixes it: `jstest-gtk` and `joystick`.
-3. If all fails, ask in the AM2R Discord Server for more help.
+3. If all fails, ask in the AM2R Discord/Matrix Server for more help.
 
 #### How do I get a controller connected to my Android device?  
 Either connect the controller via Bluetooth (check the manual for your phone and controller) or plug it in via a cable (if your controller/phone supports it). Bluetooth is not recommended for the DS4, as it is known to lag on some Android installations.
@@ -360,7 +402,7 @@ There are 3 gamemodes: New Game, New Game+ and Random Game+. New Game+ and Rando
 
 #### I'm stuck in Random Game+! How do I proceed?  
 Check first if you truly are stuck, you may have missed a path or an item somewhere.  
-Otherwise, post your **seed**, **game mode** and **operating system** into the Official AM2R Discord Server in #am2r_help for people to help you!
+Otherwise, post your **seed**, **game mode** and **operating system** into the Official AM2R Discord/Matrix Server in #am2r_help for people to help you!
 
 #### What is the rock-platform with wings and eyes, and what does it do?  
 The Septoggs were creatures found in the original M:II as platforms to help with Space Jumping. We wanted to include them along with the Blob Throwers to complete the enemy roster from the original game, but had to come up with another purpose for them to work besides simple floating platforms.   
@@ -432,7 +474,7 @@ You can try to:
 #### AM2R runs slow on Windows! Way slower than previous versions!  
 YoYo Games made changes to some Windows-specific behavior that cause it to run slow on certain setups.  
 To fix this, you may need to change the SleepMargin value in options.ini - higher values will take up more CPU cycles but will be less prone to the slowdown.  
-If you are confused about this issue, please ask in the Official AM2R Discord Server for help.
+If you are confused about this issue, please ask in the Official AM2R Discord/Matrix Server for help.
 
 #### My custom palette / the 8-bit shader doesn't appear!  
 AM2R requires DirectX9.0 installed and hardware shader support to properly display some palette changes in Fusion difficulty, allow the 8-bit shader to work, and enable custom palettes.  
@@ -467,7 +509,7 @@ Update to the AM2RLauncher 2.2.0 or later, as this problem is fixed there!
 Otherwise, make sure that you have the 32-bit version of your drivers installed first.  
 Then in the AM2RLauncher, go to the `Options` tab, and use the LD_PRELOAD environment variable that points to your OpenGL drivers.  
 If you're on Ubuntu, this will probably look like this `LD_PRELOAD=/usr/lib/i386-linux-gnu/libGL.so.1`, if you're on Arch, it'll look like this `LD_PRELOAD=/usr/lib32/libGL.so`.  
-It may look different on other distros. If you have to use a different flag for a different distro, please let us know on the Official AM2R Discord Server so we can include it here!
+It may look different on other distros. If you have to use a different flag for a different distro, please let us know on the Official AM2R Discord/Matrix Server so we can include it here!
 
 #### I have an AMD GPU and the game doesn't launch!  
 Update to the AM2RLauncher 2.2.0 or later, as this problem is fixed there!  
@@ -580,10 +622,11 @@ You can do that via the modifiers.ini file. Below is not a comprehensive list of
 No, Multitroid is a mod made by MilesTheNerd. While we greatly enjoy the mod and Miles is part of our team, it is not officially supported at present due to the time and energy required to provide official multiplayer support.
 
 #### How do I host on Multitroid?  
-1. You need to have the AM2RServer downloaded: <https://github.com/lassiterm/AM2R-Server/releases/latest>
-2. You need to either port forward, or use a VPN (like Hamachi, ZeroTier, Radmin etc.).
+1. Install [AM2RServer](https://github.com/lassiterm/AM2R-Server/releases/latest)
+2. Port forward the server IP, or use a VPN (like Hamachi, ZeroTier, Radmin etc.).
 3. Launch the AM2R Server.
 4. Give the other players your **external** IP address and port to connect with.
+
 Port forwarding is different on every router, consult your routers manual or the internet for more info. For VPNs, consult their documentation. We cannot answer questions about specific routers or VPNs.
 
 #### How do I set up Multitroid?  
