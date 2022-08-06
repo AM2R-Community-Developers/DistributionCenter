@@ -160,7 +160,7 @@ These specs will provide full-speed gameplay almost everywhere, with some slowdo
 #### Where can I stay up-to-date on AM2R?  
 - [Reddit](https://reddit.com/r/AM2R) <br> <!--<br> needed for formatting-->
 - [Discord](https://discord.gg/YTQnkAJ) and [Matrix](https://matrix.to/#/#am2r:matrix.org). Discord and Matrix are bridged together. <br>
-- [Community Updates Youtube Channel](https://youtube.com/c/am2rcommunityupdates) <br>
+- [Community Updates YouTube Channel](https://youtube.com/c/am2rcommunityupdates) <br>
 - [Legacy AM2R blog](https://metroid2remake.blogspot.com/) (No community updates will be present here)
 
 #### Can I play AM2R on a Mac?  
@@ -203,7 +203,7 @@ To limit liability and respect the DMCA, we only distribute patches that are app
 
 #### How do I install the latest version on Windows?  
 1. Head to the AM2RLauncher download page, download the Windows version, and unzip the file to its own folder: <https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/latest>
-2. Make sure that you have `.NET Framework 4.8` installed. The official download from Microsoft can be found here: <https://dotnet.microsoft.com/download/dotnet-framework/net48>
+2. Make sure that you have `.NET Framework 4.8` installed. Chances are that you probably do, but if not the official download from Microsoft can be found here: <https://dotnet.microsoft.com/download/dotnet-framework/net48>
 3. Locate your copy of AM2R 1.1.
 4. Open the Launcher by double-clicking on the AM2RLauncher.
 5. Click on the `Download` button and let it download the necessary patch files.
