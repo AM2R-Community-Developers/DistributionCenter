@@ -294,7 +294,7 @@ Just scroll down, you don't need to download the F-Droid Store. Download and ins
 Yes. Depending on your internet speed and your download mirror's speed, this may take a while. You can try changing your mirror by going to the `Download Mirror` dropdown in the `Options` tab and seeing if that gets you a better speed.
 
 #### I've encountered an issue with the AM2RLauncher. What do I do?  
-You can ask for support in the Official AM2R Discord/Matrix Server. Please provide relevant system information, steps you took, and the `AM2RLauncher.log` file which can be found in the `Logs` folder.  
+You can ask for support in the communication channels listed above. Please provide relevant system information, steps you took, and the `AM2RLauncher.log` file which can be found in the `Logs` folder.  
 On Linux, the Logs folder will be found in `~/.local/share/AM2RLauncher` instead.  
 If you encountered a bug with the Launcher itself or something where support cannot help you, open an issue at the AM2RLauncher GitHub page.
 
@@ -322,10 +322,10 @@ Additionally, we cannot guarantee future support for Windows 8, as official supp
 #### I am on Linux and I don't want to use the AM2RLauncher. What do I do instead?  
 This is not recommended, due to you missing out on automatic release updates, mod support, and easier use. However, the legacy installer can be found here:  
 <https://github.com/AM2R-Community-Developers/AM2R-Autopatcher-Linux>  
-Again, it is not recommended to use the manual installation. For help, please use our GitHub issues page or the Official AM2R Discord/Matrix Server.
+Again, it is not recommended to use the manual installation. For help, please use our GitHub issues page or communication channels.
 
 #### I am using Manjaro, and AM2R doesn't run. How do I fix this?  
-Unfortunately, we have been unable to figure out why AM2R will not run on Manjaro. Insights are greatly appreciated at our GitHub issues page or the Official AM2R Discord/Matrix Server.
+Unfortunately, we have been unable to figure out why AM2R will not run on Manjaro. Insights are greatly appreciated at our GitHub issues page or communication channels.
 
 ## Controller Questions
 
@@ -341,7 +341,7 @@ Dualshock 4's D-Pad won't work with AM2R, due to Sony making it act as an analog
 #### I am on Linux and my controllers don't work!  
 1. Check first if enabling `Compatibility Mode` in the Control options and restarting AM2R fixes the issue.
 2. GameMaker: Studio 1.4 recommends the following dependencies, try to see if installing them fixes it: `jstest-gtk` and `joystick`.
-3. If all fails, ask in the AM2R Discord/Matrix Server for more help.
+3. If all fails, ask in communication channels for more help.
 
 #### How do I get a controller connected to my Android device?  
 Either connect the controller via Bluetooth (check the manual for your phone and controller) or plug it in via a cable (if your controller/phone supports it). Bluetooth is not recommended for the DS4, as it is known to lag on some Android installations.
@@ -403,7 +403,7 @@ There are 3 gamemodes: New Game, New Game+ and Random Game+. New Game+ and Rando
 
 #### I'm stuck in Random Game+! How do I proceed?  
 Check first if you truly are stuck, you may have missed a path or an item somewhere.  
-Otherwise, post your **seed**, **game mode** and **operating system** into the Official AM2R Discord/Matrix Server in #am2r_help for people to help you!
+Otherwise, post your **seed**, **game mode** and **operating system** into communication channels for people to help you!
 
 #### What is the rock-platform with wings and eyes, and what does it do?  
 The Septoggs were creatures found in the original M:II as platforms to help with Space Jumping. We wanted to include them along with the Blob Throwers to complete the enemy roster from the original game, but had to come up with another purpose for them to work besides simple floating platforms.   
@@ -475,7 +475,7 @@ You can try to:
 #### AM2R runs slow on Windows! Way slower than previous versions!  
 YoYo Games made changes to some Windows-specific behavior that cause it to run slow on certain setups.  
 To fix this, you may need to change the SleepMargin value in options.ini - higher values will take up more CPU cycles but will be less prone to the slowdown.  
-If you are confused about this issue, please ask in the Official AM2R Discord/Matrix Server for help.
+If you are confused about this issue, please ask in communication channels for help.
 
 #### My custom palette / the 8-bit shader doesn't appear!  
 AM2R requires DirectX9.0 installed and hardware shader support to properly display some palette changes in Fusion difficulty, allow the 8-bit shader to work, and enable custom palettes.  
@@ -510,7 +510,7 @@ Update to the AM2RLauncher 2.2.0 or later, as this problem is fixed there!
 Otherwise, make sure that you have the 32-bit version of your drivers installed first.  
 Then in the AM2RLauncher, go to the `Options` tab, and use the LD_PRELOAD environment variable that points to your OpenGL drivers.  
 If you're on Ubuntu, this will probably look like this `LD_PRELOAD=/usr/lib/i386-linux-gnu/libGL.so.1`, if you're on Arch, it'll look like this `LD_PRELOAD=/usr/lib32/libGL.so`.  
-It may look different on other distros. If you have to use a different flag for a different distro, please let us know on the Official AM2R Discord/Matrix Server so we can include it here!
+It may look different on other distros. If you have to use a different flag for a different distro, please let us know in communication channels so we can include it here!
 
 #### I have an AMD GPU and the game doesn't launch!  
 Update to the AM2RLauncher 2.2.0 or later, as this problem is fixed there!  
