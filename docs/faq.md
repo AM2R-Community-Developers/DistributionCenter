@@ -623,7 +623,7 @@ No, Multitroid is a mod made by MilesTheNerd. While we greatly enjoy the mod and
 
 #### How do I host on Multitroid?  
 1. Install [AM2RServer](https://github.com/lassiterm/AM2R-Server/releases/latest)
-2. Port forward the server IP, or use a VPN (like Hamachi, ZeroTier, Radmin etc.).
+2. Either port forward, or use a VPN (like Hamachi, ZeroTier, Radmin etc.).
 3. Launch the AM2R Server.
 4. Give the other players your **external** IP address and port to connect with.
 
