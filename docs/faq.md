@@ -179,7 +179,7 @@ You have four options:
 - Install a Linux distro onto your Chromebook, and use the native Linux version. This will lead to better performance, should you struggle with the option above, but only works with select Chromebooks. See this for more details: <https://wiki.galliumos.org/Hardware_Compatibility>
 
 #### Can I play AM2R on the Switch/PlayStation Vita?  
-The Switch and PlayStation Vita are not supported platforms. Ports of the Community Updates for these platforms have been made by third parties, but they were created with pirated development tools and violated SDK NDAs; as such every support question regarding them will be deleted, and may result in a ban from all our communication channels.
+The Switch and PlayStation Vita are not supported platforms. Ports of the Community Updates for these platforms have been made by third parties, but they were created with pirated development tools and violated SDK NDAs; as such every support question regarding them will be deleted, and may result in a ban from our communication channels.
 
 #### GameMaker: Studio 1.4 has a PlayStation Vita export module. Why can't you make a build?  
 That module was discontinued before any of the developers on our team could legitimately obtain a copy. Somebody else who already has the module could export the game, but we can't officially support it as we don't have firsthand access and are unsure of the legal concerns surrounding the Sony developer agreement.
