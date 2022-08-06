@@ -164,9 +164,10 @@ These specs will provide full-speed gameplay almost everywhere, with some slowdo
 - [Legacy AM2R blog](https://metroid2remake.blogspot.com/) (No community updates will be present here)
 
 #### Can I play AM2R on a Mac?  
-Macs are not officially supported. There is however, an unofficial port available here: <https://github.com/Miepee/AM2R-Autopatcher-Mac>. Bootcamp will also run in older intel-based macs, giving you full native performance while on the Windows version.
+Macs are not officially supported. There is however, an unofficial port available here: <https://github.com/Miepee/AM2R-Autopatcher-Mac>
 
-If you're unable to use the above, M1 and x64-based Macs are reportedly able to run AM2R via Crossover, and for older Macs an x86-based system may be able to run AM2R via Wine/Wineskin or through a VM. Keep in mind however, these solutions will be *significantly* slower than running it natively.
+If you’re unable to use that, M1 and x64-based Macs are reportedly able to run AM2R via Crossover, and for older Macs an x86-based system may be able to run AM2R via Wine/Wineskin or through a VM. Keep in mind however, that those solutions will be significantly slower than running it natively.  
+Alternatively, you can also use Bootcamp on x64-based Macs in order to run the Windows version of AM2R.
 
 #### Can I play AM2R on iOS?  
 AM2R cannot be run on iOS.
