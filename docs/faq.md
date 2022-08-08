@@ -158,13 +158,13 @@ Chromebooks will need higher requirements if you're using Linux (Beta)/Crostini.
 These specs will provide full-speed gameplay almost everywhere, with some slowdowns in non-critial areas with a large amount of objects, such as the main caverns of Area 2, Area 3, and Area 5. Weaker GPUs may slow down in Fusion difficulty during X Parasite morphing.
 
 #### Where can I stay up-to-date on AM2R?  
-- [Reddit](https://reddit.com/r/AM2R)
-- [Discord](https://discord.gg/YTQnkAJ) and [Matrix](https://matrix.to/#/#am2r:matrix.org). Discord and Matrix are bridged together.
-- [Community Updates YouTube Channel](https://youtube.com/c/am2rcommunityupdates)
-- [Legacy AM2R blog](https://metroid2remake.blogspot.com/) (No community updates will be present here)
+- [Reddit](https://reddit.com/r/AM2R) - The official AM2R Subreddit.
+- [Discord](https://discord.gg/YTQnkAJ) and [Matrix](https://matrix.to/#/#am2r:matrix.org) - The official AM2R Server/Space, both of which are bridged together.
+- [Community Updates YouTube Channel](https://youtube.com/c/am2rcommunityupdates) - The official AM2R Community Updates YouTube channel.
+- [Legacy AM2R blog](https://metroid2remake.blogspot.com/)
 
 #### Can I play AM2R on a Mac?  
-Macs are not officially supported. There is however, an unofficial port available here: <https://github.com/Miepee/AM2R-Autopatcher-Mac>
+Macs are not officially supported. There is however, an unofficial port available here: <https://github.com/Miepee/AM2R-Autopatcher-Mac> 
 
 If you’re unable to use that, M1 and x64-based Macs are reportedly able to run AM2R via Crossover, and for older Macs an x86-based system may be able to run AM2R via Wine/Wineskin or through a VM. Keep in mind however, that those solutions will be significantly slower than running it natively.  
 Alternatively, you can also use Bootcamp on x64-based Macs in order to run the Windows version of AM2R.
@@ -186,7 +186,7 @@ The Switch and PlayStation Vita are not supported platforms. Ports of the Commun
 That module was discontinued before any of the developers on our team could legitimately obtain a copy. Somebody else who already has the module could export the game, but we can't officially support it as we don't have firsthand access and are unsure of the legal concerns surrounding the Sony developer agreement.
 
 #### Can I play AM2R on [third-party handheld emulation device]?  
-If it is running Android or x86-based Linux, you can probably install the respective version of AM2R. However, these devices are not officially supported as they often use highly specialized versions of Android and Linux. 
+If it is running Android or x86-based Linux, you can probably install the respective version of AM2R. However, these devices are not officially supported as they often use highly specialized versions of Android and Linux.
 
 #### Can I play AM2R on ARM Linux devices?  
 ARM Linux is officially unsupported, as the Game Maker: Studio version we use does not have ARM Linux Support.  
