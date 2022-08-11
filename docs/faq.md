@@ -212,7 +212,6 @@ To limit liability and respect the DMCA, we only distribute patches that are app
 7. Click on the `Install` button.
 
 #### How do I install the latest version on Linux?  
-
 For a universal installation of dependencies (except AM2R 1.1) and the AM2RLauncher on all Linux Distributions, including the Steam Deck, you have the option to install the AM2RLauncher via Flatpak:
 
 1. Follow the instructions for your Distro to install [Flatpak](https://flatpak.org/setup/) if don't have it installed already. Steam Deck users can skip this step.
