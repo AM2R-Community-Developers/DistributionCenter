@@ -158,10 +158,10 @@ Chromebooks will need higher requirements if you're using Linux (Beta)/Crostini.
 These specs will provide full-speed gameplay almost everywhere, with some slowdowns in non-critial areas with a large amount of objects, such as the main caverns of Area 2, Area 3, and Area 5. Weaker GPUs may slow down in Fusion difficulty during X Parasite morphing.
 
 #### Where can I stay up-to-date on AM2R?  
+- [DoctorM64's AM2R blog](https://metroid2remake.blogspot.com/) - Original AM2R blog by DoctorM64. DoctorM64 and the rest of the original AM2R development team have no association with the Community Updates.
 - [Reddit](https://reddit.com/r/AM2R) - The official AM2R Subreddit.
 - [Discord](https://discord.gg/YTQnkAJ) and [Matrix](https://matrix.to/#/#am2r:matrix.org) - The official AM2R Server/Space, both of which are bridged together.
-- [Community Updates YouTube Channel](https://youtube.com/c/am2rcommunityupdates) - The official AM2R Community Updates YouTube channel.
-- [Legacy AM2R blog](https://metroid2remake.blogspot.com/)
+- [YouTube](https://youtube.com/c/am2rcommunityupdates) - The official AM2R Community Updates YouTube channel.
 
 #### Can I play AM2R on a Mac?  
 Macs are not officially supported. There is however, an unofficial port available here: <https://github.com/Miepee/AM2R-Autopatcher-Mac> 
