@@ -4,7 +4,7 @@ title: "News"
 ---
 
 ## 10/31/2022: AM2RLauncher 2.3.0 release!
-*Ooooh, new AM2RLauncher release 👻*
+*Ooooh, new AM2RLauncher release 👻*  
 Happy Halloween to y'all, here's a new release including a scary "let's hope the Auto-Updater works properly this time". As usual, the full changelog can be found over at GitHub, most prominent changes are
 - Added an option to archive Mods when updating, so you can have two versions of the same Mod installed
 - Added an option to create a desktop shortcut of profiles, so you don't have to go manually search for the game anymore if you want to bypass the launcher
