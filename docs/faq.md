@@ -212,56 +212,26 @@ To limit liability and respect the DMCA, we only distribute patches that are app
 7. Click on the `Install` button.
 
 #### How do I install the latest version on Linux?  
-For a universal installation of dependencies (except AM2R 1.1) and the AM2RLauncher on all Linux Distributions, including the Steam Deck, you have the option to install the AM2RLauncher via Flatpak:
-
+###### Flatpak / Steam Deck
+For a universal Linux install without the need to install any dependencies, or for Steam Deck users, you can choose to use the Flatpak version of the AM2RLauncher.
 1. Follow the instructions for your Distro to install [Flatpak](https://flatpak.org/setup/) if don't have it installed already. Steam Deck users can skip this step.
-2. Install the [AM2RLauncher Flatpak](https://flathub.org/apps/details/io.github.am2r_community_developers.AM2RLauncher). This may be from the linked site, or your software center, such as `Discover` on the Steam Deck.
-3. In the Launcher, click on the `Download` button and let it download the necessary patch files.
-4. Click on the `Select 1.1` button and select your copy of AM2R 1.1 and let the AM2RLauncher verify it.
-5. Click on the `Install` button.
+2. Install the [AM2RLauncher Flatpak](https://flathub.org/apps/details/io.github.am2r_community_developers.AM2RLauncher). This may be from the linked site, or your software center, such as Discover on the Steam Deck.
+3. Launch the AM2RLauncher, and follow the instructions from "Install Community Updates" further down.
 
-Otherwise, you can install directly from the github for a smaller native package:
+###### Native install
+First you need to download the right dependencies: `.NET Runtime` (6.0 or higher), `xdelta3`, `gtk3`, `libappindicator3`, `webkitgtk`, `openssl` and `fuse2`. In addition, you also need the following dependencies for AM2R itself: Multilib / 32-Bit architecture added, and the **32-Bit version** of `libpulse`.  
+A detailed installation for each distribution with commands is available on the [GitHub Wiki](https://github.com/AM2R-Community-Developers/AM2RLauncher/wiki/Installation-Process) page.
 
+After that, you need to download and start the AM2RLauncher:
 1. Head to the AM2RLauncher download page, download the Linux version and unzip the file to its own folder: <https://github.com/AM2R-Community-Developers/AM2RLauncher/releases/latest>
-2. Make sure that you have the following dependencies for the AM2RLauncher installed: `.NET Runtime` (5.0 or higher), `xdelta3`, `gtk3`, `libappindicator3`, `webkitgtk`, `openssl` and `fuse2`. In addition, you also need the following dependencies for AM2R itself: Multilib / 32-Bit architecture added, and the **32-Bit version** of `libpulse`. Find your distribution and follow the command to install them:
-<br>
+2. Make sure that you have the following dependencies for the AM2RLauncher installed: 
+3. Mark `AM2RLauncher.Gtk` as an executable, and then run it. This can be done like this: `chmod +x AM2RLauncher.Gtk` and `./AM2RLauncher`. Alternatively, if your desktop environment supports it, you can also double-click on the file after it has been marked as an executable.
+4. Follow the instructions from "Install Community Updates" further down.
 
-   - **Ubuntu**
-  
-  On Ubuntu based distributions (Mint, Zorin etc.) you can install the above listed dependencies by following these instructions:
-
-  1. Enable the i386 architecture if you haven't already:
-  ```
-  sudo dpkg --add-architecture i386
-  sudo apt update && sudo apt install libc6:i386 libncurses5:i386 libstdc++6:i386
-  ```
-  1. Install the rest of the dependencies with  
-  ```
-  sudo apt install libappindicator3-1 libwebkit2gtk-4.0-37 xdelta3 libgl1:i386 libopenal1:i386 libpulse0:i386 default-jre`
-  ```
-  
-   - **Arch Linux**
-  
-  On Arch Linux based distributions you can install the above listed dependencies by running this command:  
-  (Multilib repositories are required, instructions on how to enable them can be found [here on the ArchWiki](https://wiki.archlinux.org/title/Official_repositories#Enabling_multilib))  
-`sudo pacman -S --needed dotnet-runtime fuse2 gtk3 libappindicator-gtk3 openssl webkit2gtk xdelta3 lib32-mesa lib32-openal lib32-libpulse jre-openjdk`
-  
-   - **Fedora**
-  
-On Fedora based distributions you can install the above listed dependencies by running this command:  
-```
-sudo dnf install dotnet-runtime-6.0 libappindicator-gtk3 xdelta mesa-libGL.i686 pulseaudio-libs.1686 openal-soft.i686 java-latest-openjdk`
-```
-<br>
-3. Follow the instructions at <https://docs.microsoft.com/en-us/dotnet/core/install/linux> to download and install the .NET Core Runtime for your distribution
-
-4. Mark `AM2RLauncher.Gtk` as an executable, and then run it. This can be done like this: `chmod +x AM2RLauncher.Gtk` and `./AM2RLauncher`. Alternatively, if your desktop environment supports it, you can also double-click on the file after it has been marked as an executable.
-
-6. Click on the `Download` button and let it download the necessary patch files.
-
-8. Click on the `Select 1.1` button and select your copy of AM2R 1.1 and let the AM2RLauncher verify it.
-
-10. Click on the `Install` button.
+###### Install Community Updates
+1. Click on the `Download` button and let it download the necessary patch files.
+2. Click on the `Select 1.1` button and select your copy of AM2R 1.1 and let the AM2RLauncher verify it.
+3. Click on the `Install` button.
 
 #### How do I make sure the AM2RLauncher will update my copy of AM2R 1.1?  
 The AM2RLauncher will make sure that your copy is legitimate.
@@ -294,8 +264,8 @@ Just scroll down, you don't need to download the F-Droid Store. Download and ins
 Yes. Depending on your internet speed and your download mirror's speed, this may take a while. You can try changing your mirror by going to the `Download Mirror` dropdown in the `Options` tab and seeing if that gets you a better speed.
 
 #### I've encountered an issue with the AM2RLauncher. What do I do?  
-You can ask for support in the our communication channels listed above. Please provide relevant system information, steps you took, and the `AM2RLauncher.log` file which can be found in the `Logs` folder.  
-On Linux, the Logs folder will be found in `~/.local/share/AM2RLauncher` instead.  
+You can ask for support in the communication channels listed above. Please provide relevant system information, steps you took, and the `AM2RLauncher.log` file which can be found in the `Logs` folder.  
+On Linux, the Logs folder will be found in `~/.local/share/AM2RLauncher` instead, or for Flatpak/Steam Deck users in `~/.var/app/io.github.am2r_community_developers.AM2RLauncher/data/AM2RLauncher`.  
 If you encountered a bug with the Launcher itself or something where support cannot help you, open an issue at the AM2RLauncher GitHub page.
 
 #### I am on Windows and launching the AM2RLauncher says I need .NET Framework 4.8. What do I do?  
