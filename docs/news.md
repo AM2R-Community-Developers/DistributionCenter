@@ -3,6 +3,15 @@ layout: post
 title: "News"
 ---
 
+## 10/31/2022: AM2RLauncher 2.3.0 release!
+*Ooooh, new AM2RLauncher release 👻*
+Happy Halloween to y'all, here's a new release including a scary "let's hope the Auto-Updater works properly this time". As usual, the full changelog can be found over at GitHub, most prominent changes are
+- Added an option to archive Mods when updating, so you can have two versions of the same Mod installed
+- Added an option to create a desktop shortcut of profiles, so you don't have to go manually search for the game anymore if you want to bypass the launcher
+- Fixed some Flatpak / Linux specific issues, like it still trying to auto update, and unreliable installation/runtime errors
+
+Flatpak users will be prompted to reinstall their profiles when this release hits Flathub due to some of these changes; your saves will be fine, this is just a reinstallation of the executable files.
+
 ## 1/7/2022: AM2RLauncher 2.2.0 release!
 EDIT: At this point it's almost tradition here that our auto-updater is broken. Ideally you'll see an update recovery tool for ~5 seconds and then get to use the AM2RLauncher 2.2.0 upon launch. If any other problems occur, please contact us in the Discord server.
 
