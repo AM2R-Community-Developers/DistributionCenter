@@ -303,10 +303,10 @@ Unfortunately, we have been unable to figure out why AM2R will not run on Manjar
 Every controller that your operating system natively supports *should* work. Bluetooth support is not guaranteed; if you are having issues after checking the rest of this section, please try using a wired connection.
 
 #### I am on Windows and have trouble getting my Switch Pro Controller to work, what do I do?  
-The Switch Pro Controller is not natively supported by Windows. You need to use a seperate program in order to get it recognized, like BetterJoy or Steam.
+The Switch Pro Controller is not natively supported by Windows. You need to use a separate program in order to get it recognized, like BetterJoy or Steam.
 
 #### The D-Pad on my Dualshock 4 controller is not working!  
-Dualshock 4's D-Pad won't work with AM2R, due to Sony making it act as an analogue stick internally/the DS4 not being natively supported by Windows. You need to use a seperate program that converts DInput to XInput, like DS4Windows or Steam - or you can just play without the D-Pad.
+The Dualshock 4's D-Pad won't work with AM2R, due to Sony making it act as an analogue stick internally and the DS4 not being natively supported by Windows. You need to use a seperate program that converts DInput to XInput, like DS4Windows or Steam - or you can just play without the D-Pad.
 
 #### I am on Linux and my controllers don't work!  
 1. Check first if enabling `Compatibility Mode` in the Control options and restarting AM2R fixes the issue.
