@@ -13,4 +13,4 @@ False. AM2R had several demos - both the Confrontation engine demos and some act
 False. AM2R was programmed from scratch in GameMaker: Studio 1.4. DoctorM64 carefully tuned the player animations and physics to align with aspects of Zero Mission, however, as the goal was to remake the original game in Zero Mission's style.
 
 #### AM2R was built by one person.
-False. It is true that DoctorM64 did all of the level and gameplay design, the vast majority of the soundtrack and programming, and a large portion of the art assets and writing, but he had numerous contributors who made the project possible and who are consequently listed in the credits.
+Half-truth. It is true that DoctorM64 did all of the level and gameplay design, the vast majority of the soundtrack and programming, and a large portion of the art assets and writing, but he had numerous contributors who made the project possible and who are consequently listed in the credits.
