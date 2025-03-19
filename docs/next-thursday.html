@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>When is next Thursday?</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+<h1 id="timer"></h1>
+</body>
+<script>
+    function updateTimer() {
+        const now = new Date();
+        const nextThursday = new Date(2025, 2, 6, 0, 0, 0, 0);
+        while (nextThursday.getDate() - now.getDate() < 7) {
+            nextThursday.setDate(nextThursday.getDate() + 7);
+        }
+        nextThursday.setHours(0, 0, 0, 0);
+
+        const timeDifference = nextThursday - now;
+        const days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
+
+        document.getElementById("timer").innerHTML = `Time until next Thursday: ${days}d ${hours}h ${minutes}m ${seconds}s`;
+    }
+
+    setInterval(updateTimer, 1000);
+    updateTimer();
+</script>
+</html>
