@@ -11,8 +11,8 @@
 <script>
     function updateTimer() {
         const now = new Date();
-        const nextThursday = new Date(2025, 2, 6, 0, 0, 0, 0);
-        while (nextThursday.getDate() - now.getDate() < 7) {
+        let nextThursday = new Date(2025, 2, 6, 0, 0, 0, 0);
+        while (nextThursday - now < 604800000) {
             nextThursday.setDate(nextThursday.getDate() + 7);
         }
         nextThursday.setHours(0, 0, 0, 0);
